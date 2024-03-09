@@ -1,0 +1,2202 @@
+{
+    "Abronia taeniata": {
+        "nombre_comun_principal": "Dragoncito de la Sierra Madre Oriental norte",
+        "NombreCompleto": "Abronia taeniata",
+        "nombres_comunes_adicionales": "Dragoncito de la Sierra Madre Oriental norte,Lagarto alicante de bromelia,Escorpi\u00f3n arbor\u00edcola de bandas,Bromeliad Arboreal Alligator Lizard,Abronie \u00e0 bandes,Gestreifte Baumschleiche,\u30de\u30c0\u30e9\u30ad\u30ce\u30dc\u30ea\u30a2\u30ea\u30b2\u30fc\u30bf\u30fc\u30c8\u30ab\u30b2",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/195507457/medium.jpg"
+    },
+    "Actias truncatipennis": {
+        "nombre_comun_principal": "Polilla Luna Mexicana",
+        "NombreCompleto": "Actias truncatipennis",
+        "nombres_comunes_adicionales": "Polilla Luna Mexicana,Gusano gordo,Mexican Moon Moth,Papalotli",
+        "foto_principal": "https://static.inaturalist.org/photos/44787116/medium.jpeg"
+    },
+    "Aesalus trogoides": {
+        "nombre_comun_principal": "Escarabajo ciervo",
+        "NombreCompleto": "Aesalus trogoides",
+        "nombres_comunes_adicionales": "Escarabajo ciervo",
+        "foto_principal": null
+    },
+    "Agapema dentifasciata": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Agapema dentifasciata",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": "https://static.inaturalist.org/photos/1411398/medium.jpg"
+    },
+    "Agkistrodon bilineatus taylori": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Agkistrodon bilineatus subsp. taylori",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Agkistrodon taylori": {
+        "nombre_comun_principal": "Metapil",
+        "NombreCompleto": "Agkistrodon taylori",
+        "nombres_comunes_adicionales": "Metapil,Cantil tamaulipeco,Taylor's Cantil,Ploskolebec Taylor\u016fv,Taylors Mokassinotter,Tamaulipas-Mokassinotter,Cumc\u00f3atl",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/59401185/medium.jpeg"
+    },
+    "Alloophorus robustus": {
+        "nombre_comun_principal": "Chegua",
+        "NombreCompleto": "Alloophorus robustus",
+        "nombres_comunes_adicionales": "Chegua,Bulldog Goodeid,Gudea ps\u00ed",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/13504448/medium.jpg"
+    },
+    "Amazona viridigenalis": {
+        "nombre_comun_principal": "Loro tamaulipeco",
+        "NombreCompleto": "Amazona viridigenalis",
+        "nombres_comunes_adicionales": "Loro tamaulipeco,Cotorra coronirroja,Red-crowned Parrot,Red-crowned Amazon,Green-cheeked Amazon,Mexican Red Head,Papagaio-de-face-verde,Amazone \u00e0 joues vertes,Groenwangamazone,Amazo\u0148an zelenol\u00edc\u00ed,Meksikonamatsoni,Gr\u00fcnwangenamazone,Gr\u00f8nkindet Amazone,Amazzone capirossa,Gr\u00f8nnkinnamazon,Z\u00f6ldarc\u00fa amazon,\u0410\u043c\u0430\u0437\u043e\u043d \u0437\u0435\u043b\u0435\u043d\u043e\u0449\u043e\u043a\u0438\u0439,Amazonka krasnog\u0142owa,\u0417\u0435\u043b\u0435\u043d\u043e\u0449\u0451\u043a\u0438\u0439 \u0430\u043c\u0430\u0437\u043e\u043d,\u30e1\u30ad\u30b7\u30b3\u30a2\u30ab\u30dc\u30a6\u30b7\u30a4\u30f3\u30b3,RCPA,Tl\u0101l\u0101cuezalin,\u053f\u0561\u0576\u0561\u0579\u0561\u0569\u0578\u0582\u0577 \u0561\u0574\u0561\u0566\u0578\u0576",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/59186054/medium.jpeg"
+    },
+    "Ameiurus australis": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Ameiurus australis",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Ameiva undulata": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Ameiva undulata",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Ameiva undulata dextra": null,
+    "Ameiva undulata podarga": null,
+    "Anelytropsis papillosus": {
+        "nombre_comun_principal": "Lagartija ciega mexicana",
+        "NombreCompleto": "Anelytropsis papillosus",
+        "nombres_comunes_adicionales": "Lagartija ciega mexicana,Mexican Blind Lizard",
+        "foto_principal": "https://static.inaturalist.org/photos/5318186/medium.jpg"
+    },
+    "Anisota punctata": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Anisota punctata",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/81684886/medium.jpg"
+    },
+    "Anomala cavifrons": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Anomala cavifrons",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/179627297/medium.jpg"
+    },
+    "Anomala megalops": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Anomala megalops",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Anoptichthys antrobius": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Anoptichthys antrobius",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Antheraea polyphemus mexicana": {
+        "nombre_comun_principal": "",
+        "NombreCompleto": "Antheraea polyphemus subsp. mexicana",
+        "nombres_comunes_adicionales": "Mexican Polyphemus Moth,Tzucalli",
+        "foto_principal": "https://static.inaturalist.org/photos/19631715/medium.jpeg"
+    },
+    "Antrostomus salvini": {
+        "nombre_comun_principal": "Tapacaminos Ticur\u00fa",
+        "NombreCompleto": "Antrostomus salvini",
+        "nombres_comunes_adicionales": "Tapacaminos Ticur\u00fa,Tapacamino ticuer,Tawny-collared Nightjar,Engoulevent de Salvin,Salvins Nachtzwaluw,Sierramadrenkehr\u00e4\u00e4j\u00e4,Lelek Salvin\u016fv,Salvinnachtschwalbe,Gr\u00e5brun nattsk\u00e4rra,Rustnakkenattravn,Salvin-lappanty\u00fa,\u0421\u0430\u043b\u044c\u0432\u0438\u043d\u043e\u0432 \u043a\u043e\u0437\u043e\u0434\u043e\u0439,\u30e1\u30ad\u30b7\u30b3\u30e8\u30bf\u30ab,TCNI",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/344449/medium.jpg"
+    },
+    "Aquiloeurycea cephalica": {
+        "nombre_comun_principal": "Tlaconete regordete",
+        "NombreCompleto": "Aquiloeurycea cephalica",
+        "nombres_comunes_adicionales": "Tlaconete regordete,Babosa,Red-legged False Brook Salamander,Chunky false brook salamander,Mlo\u010d\u00edk hlavat\u00fd,\u042f\u043c\u0447\u0430\u0442\u0430\u044f \u0441\u0430\u043b\u0430\u043c\u0430\u043d\u0434\u0440\u0430",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/11886585/medium.jpg"
+    },
+    "Aquiloeurycea galeanae": {
+        "nombre_comun_principal": "Tlaconete de Galeana",
+        "NombreCompleto": "Aquiloeurycea galeanae",
+        "nombres_comunes_adicionales": "Tlaconete de Galeana,Tlaconete,Tlaconete neoleonense,Galeana False Brook Salamander,Mlo\u010d\u00edk suchomiln\u00fd,\u0421\u0443\u0445\u043e\u043b\u044e\u0431\u0438\u0432\u0430\u044f \u0441\u0430\u043b\u0430\u043c\u0430\u043d\u0434\u0440\u0430",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/5193968/medium.jpeg"
+    },
+    "Aquiloeurycea scandens": {
+        "nombre_comun_principal": "Tlaconete tamaulipeco",
+        "NombreCompleto": "Aquiloeurycea scandens",
+        "nombres_comunes_adicionales": "Tlaconete tamaulipeco,Tamaulipas False Brook Salamander,Tamaulipan false brook salamander,Mlo\u010d\u00edk b\u011blobok\u00fd,\u0411\u0435\u043b\u043e\u0431\u043e\u043a\u0430\u044f \u0441\u0430\u043b\u0430\u043c\u0430\u043d\u0434\u0440\u0430",
+        "foto_principal": "https://static.inaturalist.org/photos/1113115/medium.jpg"
+    },
+    "Argia westfalli": {
+        "nombre_comun_principal": "Azulilla de arroyo de Westfall",
+        "NombreCompleto": "Argia westfalli",
+        "nombres_comunes_adicionales": "Azulilla de arroyo de Westfall,Caballitos del diablo,Westfall's Dancer",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/1575249/medium.jpg"
+    },
+    "Arsenura armida": {
+        "nombre_comun_principal": "Cuetla",
+        "NombreCompleto": "Arsenura armida",
+        "nombres_comunes_adicionales": "Cuetla,Polilla de seda gigante,Gusano del jonote,Serpiente de mil cabezas,Culebron,Giant silk moth,Cuetano,Cuetl\u00e1n,Cuetlame,Tzapala,Tzapula,Tilpapalotl,Cuecla,Chonocuile,Zapala,Tecocoz,Pochocuil",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/231926204/medium.jpg"
+    },
+    "Asiomorpha coarctata": {
+        "nombre_comun_principal": "Milpi\u00e9s asi\u00e1tico",
+        "NombreCompleto": "Asiomorpha coarctata",
+        "nombres_comunes_adicionales": "Milpi\u00e9s asi\u00e1tico,Milpi\u00e9s,Long-flange Millipede,Imbu\u00e1,\u30ad\u30d9\u30ea\u30e4\u30b1\u30e4\u30b9\u30c7",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/5151181/medium.jpg"
+    },
+    "Astyanax jordani": {
+        "nombre_comun_principal": "Sardinita ciega",
+        "NombreCompleto": "Astyanax jordani",
+        "nombres_comunes_adicionales": "Sardinita ciega,Cave Tetra,Blind Cave Fish,Blind Cave Characin,Blind Cave Tetra,Tetra slep\u00e1,\u0e1b\u0e25\u0e32\u0e16\u0e49\u0e33\u0e15\u0e32\u0e1a\u0e2d\u0e14",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/71728049/medium.jpg"
+    },
+    "Atlapetes pileatus": {
+        "nombre_comun_principal": "Rascador Gorra Canela",
+        "NombreCompleto": "Atlapetes pileatus",
+        "nombres_comunes_adicionales": "Rascador Gorra Canela,Atlapetes gorra rufa,Rufous-capped Brushfinch,Rufous-capped Brush-Finch,Roodkapstruikgors,Ruskolakkisirkku,Strn\u00e1dek \u010depi\u010dat\u00fd,Rotkappenbuschammer,K\u0131rm\u0131z\u0131 al\u0131nl\u0131 \u00e7al\u0131 ser\u00e7esi,Tohi \u00e0 calotte rousse,Brunkronekjerrspurv,\u041a\u0440\u0430\u0441\u043d\u043e\u0448\u0430\u043f\u043e\u0447\u043d\u0430\u044f \u0430\u0442\u043b\u0430\u043f\u0435\u0442\u0430,\u30a2\u30ab\u30dc\u30a6\u30b7\u30e4\u30d6\u30b7\u30c8\u30c9,RCBR,RCBF",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/84336/medium.jpg"
+    },
+    "Atthis heloisa": {
+        "nombre_comun_principal": "",
+        "NombreCompleto": "Atthis heloisa",
+        "nombres_comunes_adicionales": "Zumbador mexicano,Bumblebee Hummingbird,Heloise's Hummingbird,Rosenkehlelfe,Colibri h\u00e9lo\u00efse,Hommelkolibrie,Meksikonpikkukolibri,Kolib\u0159\u00edk \u010dmel\u00e1kov\u00fd,BUHU",
+        "foto_principal": "https://static.inaturalist.org/photos/20395960/medium.jpeg?1530072688"
+    },
+    "Automeris peigleri": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Automeris peigleri",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/25005186/medium.jpg"
+    },
+    "Barisia ciliaris": {
+        "nombre_comun_principal": "Lagartija falso escorpi\u00f3n",
+        "NombreCompleto": "Barisia ciliaris",
+        "nombres_comunes_adicionales": "Lagartija falso escorpi\u00f3n,Escorpi\u00f3n de monta\u00f1a,Northern Imbricate Alligator Lizard",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/5996680/medium.jpg"
+    },
+    "Barisia imbricata": {
+        "nombre_comun_principal": "Lagarto alicante de las monta\u00f1as",
+        "NombreCompleto": "Barisia imbricata",
+        "nombres_comunes_adicionales": "Lagarto alicante de las monta\u00f1as,Escorpi\u00f3n,Lagarto alicante del Popocat\u00e9petl,Imbricate Alligator Lizard,Popocatepetl alligator lizard,Imbricate Alligator Lizard",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/2831733/medium.jpg"
+    },
+    "Barisia imbricata ciliaris": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Barisia imbricata subsp. ciliaris",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Bolbocerastes serratus": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Bolbocerastes serratus",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/38946339/medium.jpeg"
+    },
+    "Bolitoglossa platydactyla": {
+        "nombre_comun_principal": "Salamandra lengua de hongo pies anchos",
+        "NombreCompleto": "Bolitoglossa platydactyla",
+        "nombres_comunes_adicionales": "Salamandra lengua de hongo pies anchos,Salamandra-lengua hongueada pies anchos,Achoque De Tierra,Tlaconete de las piedras,Broadfoot Mushroomtongue Salamander,Broad-footed salamander,Mlo\u010d\u00edk \u0161irokoprst\u00fd,Bolitoglosse g\u00e9ant du Mexique,\u041f\u043b\u043e\u0441\u043a\u043e\u043f\u0430\u043b\u0430\u044f \u0441\u0430\u043b\u0430\u043c\u0430\u043d\u0434\u0440\u0430",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/341688/medium.jpg"
+    },
+    "Bolivaresmus errabundus": null,
+    "Bubo virginianus mayensis": {
+        "nombre_comun_principal": "",
+        "NombreCompleto": "Bubo virginianus subsp. mayensis",
+        "nombres_comunes_adicionales": "B\u00faho cornudo,Yucat\u00e1n Great Horned Owl",
+        "foto_principal": "https://static.inaturalist.org/photos/67541758/medium.jpeg"
+    },
+    "Bufo compactilis": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Bufo compactilis",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Bufo cristatus": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Bufo cristatus",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Bufo occidentalis": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Bufo occidentalis",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": "http://bdi.conabio.gob.mx/fotoweb/cache/5007/Animales/Vertebrados/Anfibios/LFB002%20Bufo%20occidentalis.t5d24e008.m600.wConabioCornerCopy.jpg.x6IVymq9jN4CTa_er8YOBx46IDuecrYx6MiVPJcVsbWQ.jpg"
+    },
+    "Bufo perplexus": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Bufo perplexus",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Cabraca unigon": {
+        "nombre_comun_principal": "Milpi\u00e9s",
+        "NombreCompleto": "Cabraca unigon",
+        "nombres_comunes_adicionales": "Milpi\u00e9s",
+        "foto_principal": null
+    },
+    "Calephelis stallingsi": {
+        "nombre_comun_principal": "Gulf Scintillant",
+        "NombreCompleto": "Calephelis stallingsi",
+        "nombres_comunes_adicionales": "Gulf Scintillant",
+        "foto_principal": null
+    },
+    "Calocitta colliei": {
+        "nombre_comun_principal": "Urraca Cara Negra",
+        "NombreCompleto": "Calocitta colliei",
+        "nombres_comunes_adicionales": "Urraca Cara Negra,Urraca hermosa cara negra,Black-throated Magpie-Jay,Geai \u00e0 face noire,Gaio-de-garganta-preta,Collies Ekstergaai,Isot\u00f6yht\u00f6harakka,Blauwangenh\u00e4her,\u0642\u064a\u0642 \u0627\u0644\u0639\u0642\u0639\u0642 \u0623\u0633\u0648\u062f \u0627\u0644\u062d\u0646\u062c\u0631\u0629,Ghiandaia gazza golanera,Storskj\u00e6reskrike,Sortbrystet Topskade,Usz\u00e1lyfark\u00fa szajk\u00f3,Sojka dlouhoocas\u00e1,\u0427\u0435\u0440\u043d\u043e\u0433\u043e\u0440\u043b\u0430\u044f \u0441\u043e\u0440\u043e\u0447\u044c\u044f \u0441\u043e\u0439\u043a\u0430,\u30b3\u30ea\u30fc\u30ab\u30f3\u30e0\u30ea\u30b5\u30f3\u30b8\u30e3\u30af,BTMJ,Joogiitsoh biz\u00e9\u00e9\u02bc halzhin\u00edg\u00ed\u00ed",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/6801913/medium.jpeg"
+    },
+    "Calomacraspis splendens": {
+        "nombre_comun_principal": "Escarabajo gema verde",
+        "NombreCompleto": "Calomacraspis splendens",
+        "nombres_comunes_adicionales": "Escarabajo gema verde",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/159042140/medium.jpeg"
+    },
+    "Campylorhynchus gularis": {
+        "nombre_comun_principal": "Matraca serrana",
+        "NombreCompleto": "Campylorhynchus gularis",
+        "nombres_comunes_adicionales": "Matraca serrana,Cucarachero manchado,Spotted Wren,Gevlekte Winterkoning,T\u00e4pl\u00e4peukaloinen,St\u0159\u00edzl\u00edk skvrnit\u00fd,Troglodyte tachet\u00e9,Eikesmett,Plettet Kaktussmutte,Bajszos \u00f6k\u00f6rszem,Bartzaunk\u00f6nig,\u041c\u0435\u043a\u0441\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u043a\u0430\u043a\u0442\u0443\u0441\u043e\u0432\u044b\u0439 \u043a\u0440\u0430\u043f\u0438\u0432\u043d\u0438\u043a,\u30e1\u30ad\u30b7\u30b3\u30b5\u30dc\u30c6\u30f3\u30df\u30bd\u30b5\u30b6\u30a4,SPWR",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/99753/medium.jpg"
+    },
+    "Canthon (Boreocanthon) lecontei": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Canthon (Boreocanthon) lecontei",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": "https://static.inaturalist.org/photos/88974157/medium.jpg"
+    },
+    "Canthon (Glaphyrocanthon) corporali": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Canthon (Glaphyrocanthon) corporali",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Canthon humectus alvarengai": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Canthon humectus subsp. alvarengai",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Caprimulgus salvini": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Caprimulgus salvini",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": "http://bdi.conabio.gob.mx/fotoweb/cache/5035/Otros%20Archivos/Ilustraciones/MAPM0891%20Caprimulgus%20salvini.t50ad07be.m600.wConabioCornerCopy.jpg.xXI7_hSAFGd2XUrMK1WGOFUM5Shkysu348Vev24iBqFA.jpg"
+    },
+    "Caria ino melicerta": {
+        "nombre_comun_principal": "",
+        "NombreCompleto": "Caria ino subsp. melicerta",
+        "nombres_comunes_adicionales": "Mariposa met\u00e1lica de borde rojo Norte\u00f1a",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/15452593/medium.jpg"
+    },
+    "Carpodacus mexicanus amplus": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Carpodacus mexicanus subsp. amplus",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Carpodacus mexicanus clementis": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Carpodacus mexicanus subsp. clementis",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Catharus occidentalis": {
+        "nombre_comun_principal": "Zorzal mexicano",
+        "NombreCompleto": "Catharus occidentalis",
+        "nombres_comunes_adicionales": "Zorzal mexicano,Russet Nightingale-Thrush,Grive rouss\u00e2tre,Bruinkopdwerglijster,Roodbruine Dwerglijster,Braunkopfmusendrossel,Meksikonrastas,Drozd slav\u00edkov\u00fd,Rustskogtrost,Tordo-arruivado,Barnafej\u0171 f\u00fclem\u00fclerig\u00f3,\u0411\u0443\u0440\u043e\u0433\u043e\u043b\u043e\u0432\u044b\u0439 \u043a\u043e\u0440\u043e\u0442\u043a\u043e\u043a\u043b\u044e\u0432\u044b\u0439 \u0434\u0440\u043e\u0437\u0434,\u30e1\u30ad\u30b7\u30b3\u30c1\u30e3\u30c4\u30b0\u30df,RUNT",
+        "foto_principal": "https://static.inaturalist.org/photos/29290335/medium.jpeg"
+    },
+    "Centropomus poeyi": {
+        "nombre_comun_principal": "Robalo prieto",
+        "NombreCompleto": "Centropomus poeyi",
+        "nombres_comunes_adicionales": "Robalo prieto,Mexican Snook,Robalo lagunov\u00fd",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/1337650/medium.gif"
+    },
+    "Centruroides limpidus limpidus": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Centruroides limpidus subsp. limpidus",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Centruroides limpidus tecomanus": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Centruroides limpidus subsp. tecomanus",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Cepheuptychia glaucina": {
+        "nombre_comun_principal": "Mariposa s\u00e1tira azulosa",
+        "NombreCompleto": "Cepheuptychia glaucina",
+        "nombres_comunes_adicionales": "Mariposa s\u00e1tira azulosa,Dirty-blue Satyr,Mexican Blue-Satyr",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/103235020/medium.jpeg"
+    },
+    "Chaetodipus nelsoni": {
+        "nombre_comun_principal": "Rat\u00f3n de abazones de Nelson",
+        "NombreCompleto": "Chaetodipus nelsoni",
+        "nombres_comunes_adicionales": "Rat\u00f3n de abazones de Nelson,Rat\u00f3n de campo,Rat\u00f3n de bolsas del altiplano,Nelson's Pocket Mouse,Nelson pocket mouse,Chihuahuantaskuhiiri,\u30cd\u30eb\u30bd\u30f3\u30dd\u30b1\u30c3\u30c8\u30de\u30a6\u30b9",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/377875/medium.JPG"
+    },
+    "Chaetodipus nelsoni nelsoni": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Chaetodipus nelsoni subsp. nelsoni",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/377876/medium.JPG"
+    },
+    "Chihuahuanus bilineatus": {
+        "nombre_comun_principal": "\u0160t\u00edr dvoupruh\u00fd",
+        "NombreCompleto": "Chihuahuanus bilineatus",
+        "nombres_comunes_adicionales": "\u0160t\u00edr dvoupruh\u00fd",
+        "foto_principal": "https://static.inaturalist.org/photos/97736593/medium.jpg"
+    },
+    "Chiropterotriton chiropterus": {
+        "nombre_comun_principal": "Salamandra pie plano",
+        "NombreCompleto": "Chiropterotriton chiropterus",
+        "nombres_comunes_adicionales": "Salamandra pie plano,Salamandra de pie plano , tlaconete,Salamandra pie plano com\u00fan,Common Splayfoot Salamander,Common flat-footed salamander,Mlo\u010d\u00edk st\u0159edomexick\u00fd,Chiropt\u00e9rotriton de Cope,\u041c\u043e\u0437\u043e\u043b\u0438\u0441\u0442\u0430\u044f \u0441\u0430\u043b\u0430\u043c\u0430\u043d\u0434\u0440\u0430",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/56439448/medium.jpg"
+    },
+    "Chiropterotriton chondrostega": {
+        "nombre_comun_principal": "Salamandra pie plano cartilaginosa",
+        "NombreCompleto": "Chiropterotriton chondrostega",
+        "nombres_comunes_adicionales": "Salamandra pie plano cartilaginosa,Salamandra-pie plano cartilaginosa,Salamandra cartilaginosa,Gristle-headed Splayfoot Salamander,Gristlehead splayfoot salamander,Gristle-headed salamander,Mlo\u010d\u00edk k\u0159ehk\u00fd,Chiropt\u00e9rotriton nain de Durango,\u041b\u043e\u043c\u043a\u0430\u044f \u0441\u0430\u043b\u0430\u043c\u0430\u043d\u0434\u0440\u0430",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/430009/medium.jpg"
+    },
+    "Chiropterotriton chondrostega cracens": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Chiropterotriton chondrostega subsp. cracens",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Chiropterotriton cieloensis": {
+        "nombre_comun_principal": "Salamandra de El Cielo",
+        "NombreCompleto": "Chiropterotriton cieloensis",
+        "nombres_comunes_adicionales": "Salamandra de El Cielo,El Cielo Salamander,Chiropt\u00e9rotriton g\u00e9ant de Cielo",
+        "foto_principal": "https://static.inaturalist.org/photos/1519071/medium.jpg"
+    },
+    "Chiropterotriton cracens": {
+        "nombre_comun_principal": "Salamandra cartilaginosa tamaulipeca",
+        "NombreCompleto": "Chiropterotriton cracens",
+        "nombres_comunes_adicionales": "Salamandra cartilaginosa tamaulipeca,Salamandra cartilaginosa graciosa,Salamandra graciosa,Graceful Splayfoot Salamander,Graceful flat-footed salamander,Chiropt\u00e9rotriton nain du Tamaulipas",
+        "foto_principal": "https://enciclovida.mx/fotoweb/cache/v2/d/E/Animales/Vertebrados/Anfibios/EGP0270%20Chiropterotriton%20cracens.jpg.jyeQs6XMMaX5J3NhsAng0JtbmFja29CbnFuZ3NAbXJ6LGtwZQA.BSW1jVhbUX.jpg"
+    },
+    "Chiropterotriton infernalis": {
+        "nombre_comun_principal": "Salamandra del Sistema de Purificaci\u00f3n",
+        "NombreCompleto": "Chiropterotriton infernalis",
+        "nombres_comunes_adicionales": "Salamandra del Sistema de Purificaci\u00f3n,Salamandra del Sistema Purificaci\u00f3n,Sistema Purificaci\u00f3n Salamander,Chiropt\u00e9rotriton de Purificacion",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/12222129/medium.jpg"
+    },
+    "Chiropterotriton miquihuanus": {
+        "nombre_comun_principal": "Tlaconete de Patas Anchas de Maquihuana",
+        "NombreCompleto": "Chiropterotriton miquihuanus",
+        "nombres_comunes_adicionales": "Tlaconete de Patas Anchas de Maquihuana,Miquihuanan Splayfoot Salamander,Miquihuana Splayfoot Salamander,Chiropt\u00e9rotriton de Miquihuana",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/338437/medium.jpg"
+    },
+    "Chiropterotriton multidentatus": {
+        "nombre_comun_principal": "Salamandra pie plano multidentada",
+        "NombreCompleto": "Chiropterotriton multidentatus",
+        "nombres_comunes_adicionales": "Salamandra pie plano multidentada,Salamandra-pie plano multidentada,Salamandra dientona,Salamandra multidentada,Toothy Splayfoot Salamander,Toothy salamander,Mlo\u010d\u00edk mnohozub\u00fd,Chiropt\u00e9rotriton g\u00e9ant du Tamaulipas,\u041c\u043d\u043e\u0433\u043e\u0437\u0443\u0431\u0430\u044f \u0441\u0430\u043b\u0430\u043c\u0430\u043d\u0434\u0440\u0430",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/11844502/medium.jpeg"
+    },
+    "Chlosyne endeis pardelina": {
+        "nombre_comun_principal": "",
+        "NombreCompleto": "Chlosyne endeis subsp. pardelina",
+        "nombres_comunes_adicionales": "Mariposa parche con bandas del Noreste",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/174742112/medium.jpg"
+    },
+    "Chlosyne rosita browni": {
+        "nombre_comun_principal": "",
+        "NombreCompleto": "Chlosyne rosita subsp. browni",
+        "nombres_comunes_adicionales": "Mariposa parche rosita norte\u00f1a",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/5101084/medium.jpeg"
+    },
+    "Chrysina macropus": {
+        "nombre_comun_principal": "Large-eyed Jewel Scarab",
+        "NombreCompleto": "Chrysina macropus",
+        "nombres_comunes_adicionales": "Large-eyed Jewel Scarab,\u30e2\u30e2\u30d6\u30c8\u30a6\u30b0\u30a4\u30b9\u30b3\u30ac\u30cd",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/3481198/medium.jpg"
+    },
+    "Cichlasoma labridens": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Cichlasoma labridens",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Cichlasoma pantostictum": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Cichlasoma pantostictum",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Cichlasoma steindachneri": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Cichlasoma steindachneri",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Cleidogona coatlicue": {
+        "nombre_comun_principal": "Milpi\u00e9s",
+        "NombreCompleto": "Cleidogona coatlicue",
+        "nombres_comunes_adicionales": "Milpi\u00e9s",
+        "foto_principal": null
+    },
+    "Cleidogona crystallina": {
+        "nombre_comun_principal": "Milpi\u00e9s",
+        "NombreCompleto": "Cleidogona crystallina",
+        "nombres_comunes_adicionales": "Milpi\u00e9s",
+        "foto_principal": null
+    },
+    "Cleidogona pecki": {
+        "nombre_comun_principal": "Milpi\u00e9s",
+        "NombreCompleto": "Cleidogona pecki",
+        "nombres_comunes_adicionales": "Milpi\u00e9s",
+        "foto_principal": null
+    },
+    "Cleidogona pochteca": {
+        "nombre_comun_principal": "Milpi\u00e9s",
+        "NombreCompleto": "Cleidogona pochteca",
+        "nombres_comunes_adicionales": "Milpi\u00e9s",
+        "foto_principal": null
+    },
+    "Cleidogona revilla": {
+        "nombre_comun_principal": "Milpi\u00e9s",
+        "NombreCompleto": "Cleidogona revilla",
+        "nombres_comunes_adicionales": "Milpi\u00e9s",
+        "foto_principal": null
+    },
+    "Cleidogona yerbabuena": {
+        "nombre_comun_principal": "Milpi\u00e9s",
+        "NombreCompleto": "Cleidogona yerbabuena",
+        "nombres_comunes_adicionales": "Milpi\u00e9s",
+        "foto_principal": null
+    },
+    "Cnemidophorus communis": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Cnemidophorus communis",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Cnemidophorus sackii": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Cnemidophorus sackii",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Cnemidophorus sackii sacki": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Cnemidophorus sackii subsp. sacki",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Cochliopina compacta": {
+        "nombre_comun_principal": "Caracol de lodo",
+        "NombreCompleto": "Cochliopina compacta",
+        "nombres_comunes_adicionales": "Caracol de lodo",
+        "foto_principal": null
+    },
+    "Cochliopina picta": {
+        "nombre_comun_principal": "Caracol de lodo",
+        "NombreCompleto": "Cochliopina picta",
+        "nombres_comunes_adicionales": "Caracol de lodo",
+        "foto_principal": null
+    },
+    "Copaxa mannana": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Copaxa mannana",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": "https://static.inaturalist.org/photos/16097550/medium.jpeg"
+    },
+    "Corynorhinus mexicanus": {
+        "nombre_comun_principal": "Murci\u00e9lago mula mexicano",
+        "NombreCompleto": "Corynorhinus mexicanus",
+        "nombres_comunes_adicionales": "Murci\u00e9lago mula mexicano,Murci\u00e9lago,Murci\u00e9lago orej\u00f3n,Murci\u00e9lago orejudo mexicano,Mexican Big-eared Bat,Big eared bats,Meksikonkorvay\u00f6kk\u00f6,Netop\u00fdr mexick\u00fd,Meksika Koca Kulakl\u0131 Yarasas\u0131,Mexikanisches Langohr,\u30e1\u30ad\u30b7\u30b3\u30a6\u30b5\u30ae\u30b3\u30a6\u30e2\u30ea,Sopich\u00ed",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/322219610/medium.jpeg"
+    },
+    "Cotinis (Cotinis) subviolacea": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Cotinis (Cotinis) subviolacea",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/2758842/medium.JPG"
+    },
+    "Craugastor decoratus": {
+        "nombre_comun_principal": "Rana de hojarasca decorada",
+        "NombreCompleto": "Craugastor decoratus",
+        "nombres_comunes_adicionales": "Rana de hojarasca decorada,Rana-ladrona adornada,Rana ladradora adornada,Rana labradora,Adorned robber frog,\u0414\u0435\u043a\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u043b\u0438\u0441\u0442\u043e\u0432\u0430\u044f \u043b\u044f\u0433\u0443\u0448\u043a\u0430",
+        "foto_principal": "https://static.inaturalist.org/photos/378458/medium.jpg"
+    },
+    "Crotalus durissus totonacus": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Crotalus durissus subsp. totonacus",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Crotalus lepidus morulus": {
+        "nombre_comun_principal": "",
+        "NombreCompleto": "Crotalus lepidus subsp. morulus",
+        "nombres_comunes_adicionales": "V\u00edbora de cascabel gris",
+        "foto_principal": "http://bdi.conabio.gob.mx/fotoweb/cache/5001/Animales/Vertebrados/Reptiles/ECA0052%20Crotalus%20lepidus%20ssp.%20morulus.t52cfd88e.m600.wConabioCornerCopy.jpg.xbC-CbTA5_5aH3cIfTEtuQrMloxOYsgwLCLLkU_tDzlI.jpg"
+    },
+    "Crotalus morulus": {
+        "nombre_comun_principal": "V\u00edbora de cascabel de las rocas tamaulipeca",
+        "NombreCompleto": "Crotalus morulus",
+        "nombres_comunes_adicionales": "V\u00edbora de cascabel de las rocas tamaulipeca,V\u00edbora de cascabel gris,Tamaulipan Rock Rattlesnake,Tamaulipas-Felsenklapperschlange",
+        "foto_principal": "https://static.inaturalist.org/photos/4586803/medium.jpg"
+    },
+    "Crotalus totonacus": {
+        "nombre_comun_principal": "Cascabel totonaca",
+        "NombreCompleto": "Crotalus totonacus",
+        "nombres_comunes_adicionales": "Cascabel totonaca,V\u00edbora de cascabel totonaca,Cascabel amarilla,V\u00edbora cascabel tropical,Totonacan Rattlesnake,Cascabel rattlesnake,Cascavel-totonaca",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/20627963/medium.jpeg"
+    },
+    "Cryptotis mexicanus": {
+        "nombre_comun_principal": "Musara\u00f1a de orejillas mexicana",
+        "NombreCompleto": "Cryptotis mexicanus",
+        "nombres_comunes_adicionales": "Musara\u00f1a de orejillas mexicana,Musara\u00f1a orejillas mexicana,Musara\u00f1a,Musara\u00f1a tropical mexicana,Mexican Small-eared Shrew,Meksikonn\u00f6p\u00e4st\u00e4inen,Rejsek mexick\u00fd,\u30e1\u30ad\u30b7\u30b3\u30b3\u30df\u30df\u30c8\u30ac\u30ea\u30cd\u30ba\u30df",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/3038326/medium.JPG"
+    },
+    "Cryptotis mexicanus madrea": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Cryptotis mexicanus subsp. madrea",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Cryptotis obscurus": {
+        "nombre_comun_principal": "Musara\u00f1a de la Sierra Madre Oriental",
+        "NombreCompleto": "Cryptotis obscurus",
+        "nombres_comunes_adicionales": "Musara\u00f1a de la Sierra Madre Oriental,Musara\u00f1a,Musara\u00f1a tropical de Hidalgo,Grizzled Mexican Small-eared Shrew,\u30cf\u30a4\u30a4\u30ed\u30b3\u30df\u30df\u30c8\u30ac\u30ea\u30cd\u30ba\u30df",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/417447/medium.jpg"
+    },
+    "Ctenosaura pectinata": {
+        "nombre_comun_principal": "Iguana mexicana de cola espinosa",
+        "NombreCompleto": "Ctenosaura pectinata",
+        "nombres_comunes_adicionales": "Iguana mexicana de cola espinosa,Iguana negra,Garrobo negro,Iguana espinosa Mexicana,Iguana de roca,Western Spiny-tailed Iguana,Mexican Spinytail Iguana,Mexican spiny tail iguana,Iguana-de-cauda-espinhosa-mexicana,Westmexikanischer Schwarzleguan,Vestmexicansk Tornhaleleguan,\u0625\u063a\u0648\u0627\u0646\u0629 \u063a\u0631\u0628\u064a\u0629 \u0634\u0627\u0626\u0643\u0629 \u0627\u0644\u0630\u064a\u0644,\u0427\u0451\u0440\u043d\u0430\u044f \u0438\u0433\u0443\u0430\u043d\u0430 \u0412\u0438\u0433\u043c\u0430\u043d\u043d\u0430,\u30af\u30b7\u30c8\u30b2\u30aa\u30a4\u30b0\u30a2\u30ca,Cohquetzpalxoxohqui",
+        "foto_principal": "https://static.inaturalist.org/photos/63214116/medium.jpeg"
+    },
+    "Cyclocephala caelestis": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Cyclocephala caelestis",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Cyllopsis hedemanni tamaulipensis": {
+        "nombre_comun_principal": "",
+        "NombreCompleto": "Cyllopsis hedemanni subsp. tamaulipensis",
+        "nombres_comunes_adicionales": "Mariposa gema s\u00e1tira coluda Tamaulipeca",
+        "foto_principal": null
+    },
+    "Cynanthus doubledayi": {
+        "nombre_comun_principal": "Colibr\u00ed Pico Ancho Mexicano",
+        "NombreCompleto": "Cynanthus doubledayi",
+        "nombres_comunes_adicionales": "Colibr\u00ed Pico Ancho Mexicano,Colibr\u00ed pico ancho de Doubleday,Colibr\u00ed pico ancho del Sur,Turquoise-crowned Hummingbird,Doubleday's Hummingbird,Turkiskronekolibri,Colibri de Doubleday,Blaugesicht-Breitschnabelkolibri,Doubledaybreitschnabelkolibri,\u041c\u0435\u043a\u0441\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u0438\u0437\u0443\u043c\u0440\u0443\u0434",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/235880524/medium.jpg"
+    },
+    "Deltarhynchus flammulatus": {
+        "nombre_comun_principal": "",
+        "NombreCompleto": "Deltarhynchus flammulatus",
+        "nombres_comunes_adicionales": "Papamoscas Mexicano,Papamoscas jaspeado,Flammulated Flycatcher,Deltasnaveltiran,Meksikonpikkunapsu,Tyran mexick\u00fd,FLFL",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/774427/medium.jpg?1397013367"
+    },
+    "Dendropsophus sartori": {
+        "nombre_comun_principal": "Ranita rayada",
+        "NombreCompleto": "Dendropsophus sartori",
+        "nombres_comunes_adicionales": "Ranita rayada,Rana de \u00e1rbol,Rana-de \u00e1rbol de Taylor,Ranita amarilla,Ranita amarilla de Taylor,Taylor's Yellow Tree Frog,Taylor\u2019s yellow treefrog,Rosni\u010dka guerrersk\u00e1",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/2145324/medium.JPG"
+    },
+    "Dionda erimyzonops": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Dionda erimyzonops",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Dionda ipni": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Dionda ipni",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Dionda melanops": {
+        "nombre_comun_principal": "Carpa manchada",
+        "NombreCompleto": "Dionda melanops",
+        "nombres_comunes_adicionales": "Carpa manchada,Sardinita ojinegra de Saltillo,Spotted Minnow",
+        "foto_principal": "https://static.inaturalist.org/photos/6031681/medium.jpeg"
+    },
+    "Diplotaxis aereomicans": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Diplotaxis aereomicans",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Diplotaxis caelestis": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Diplotaxis caelestis",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Diplotaxis curvaticeps": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Diplotaxis curvaticeps",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Diplotaxis fossifrons": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Diplotaxis fossifrons",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Diplotaxis hirsuta": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Diplotaxis hirsuta",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Diplotaxis martinezi": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Diplotaxis martinezi",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Diplotaxis puncticollis": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Diplotaxis puncticollis",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": "https://enciclovida.mx/fotoweb/cache/5037/Animales/Invertebrados/JCPM069%20Diplotaxis%20puncticollis.t51ba1de4.m600.wConabioCornerCopy.jpg.xPj-YOlJdFKoNR4GAhmgwNmYolkNhDTUtMUd8JsoyjwQ.jpg"
+    },
+    "Dynastes hyllus": {
+        "nombre_comun_principal": "Cimol",
+        "NombreCompleto": "Dynastes hyllus",
+        "nombres_comunes_adicionales": "Cimol,Mexican Hercules Beetle,Hyllus Beetle,\u0e14\u0e49\u0e27\u0e07\u0e01\u0e27\u0e48\u0e32\u0e07\u0e2e\u0e34\u0e25\u0e25\u0e38\u0e2a,\u30d2\u30eb\u30b9\u30b7\u30ed\u30ab\u30d6\u30c8",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/3050765/medium.JPG"
+    },
+    "Ecnomiohyla miotympanum": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Ecnomiohyla miotympanum",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": "http://bdi.conabio.gob.mx/fotoweb/cache/5007/Animales/Vertebrados/Anfibios/RPR0008%20Ecnomiohyla%20miotympanum.t51069a76.m600.wConabioCornerCopy.jpg.xJ38h6Ms9Zg-WN6nIgIN4WSVO7NIsZnTRKdewC46vuHw.jpg"
+    },
+    "Eleodes (Caverneleodes) sprousei": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Eleodes (Caverneleodes) sprousei",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Eleutherodactylus albolabris": {
+        "nombre_comun_principal": "Rana fisgona labios blancos",
+        "NombreCompleto": "Eleutherodactylus albolabris",
+        "nombres_comunes_adicionales": "Rana fisgona labios blancos,Ranita chirriadora de labio blanco,Ranita de labio blanco,White-lipped Rain Frog,White-lipped peeping frog,White-lipped chirping frog,Bezblanka b\u011bloret\u00e1",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/350556/medium.jpg"
+    },
+    "Eleutherodactylus batrachylus": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Eleutherodactylus batrachylus",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Eleutherodactylus decoratus": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Eleutherodactylus decoratus",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Eleutherodactylus dennisi": {
+        "nombre_comun_principal": "Rana chirriadora de la Sierra Madre Oriental",
+        "NombreCompleto": "Eleutherodactylus dennisi",
+        "nombres_comunes_adicionales": "Rana chirriadora de la Sierra Madre Oriental,Rana-chirriadora de Dennis,Rana chirriadora,Dennis' Chirping Frog,Dennis\u2019s chirping frog,\u041f\u0435\u0449\u0435\u0440\u043d\u0430\u044f \u0441\u0442\u0440\u0435\u043a\u043e\u0442\u0443\u043d\u044c\u044f",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/105169862/medium.jpeg"
+    },
+    "Eleutherodactylus longipes": {
+        "nombre_comun_principal": "Ranita chirriadora de la Huasteca",
+        "NombreCompleto": "Eleutherodactylus longipes",
+        "nombres_comunes_adicionales": "Ranita chirriadora de la Huasteca,Rana-chirriadora de la Huasteca,Long-footed chirping frog",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/338289/medium.jpg"
+    },
+    "Eleutherodactylus rhodopis": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Eleutherodactylus rhodopis",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Eleutherodactylus verrucipes": {
+        "nombre_comun_principal": "Rana chirrionera orejona",
+        "NombreCompleto": "Eleutherodactylus verrucipes",
+        "nombres_comunes_adicionales": "Rana chirrionera orejona,Ranita orejona,Big-eared chirping frog",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/338250/medium.jpg"
+    },
+    "Eleutherodactylus verruculatus": {
+        "nombre_comun_principal": "Rana chirrionera menor",
+        "NombreCompleto": "Eleutherodactylus verruculatus",
+        "nombres_comunes_adicionales": "Rana chirrionera menor,Rana-chirrionera menor,Ranita menuda,Least Chirping Frog",
+        "foto_principal": "https://static.inaturalist.org/photos/2211036/medium.JPG?1438453640"
+    },
+    "Emesis (Tenedia) saturata": {
+        "nombre_comun_principal": "Mariposa topacio",
+        "NombreCompleto": "Emesis (Tenedia) saturata",
+        "nombres_comunes_adicionales": "Mariposa topacio,Oaxacan Emesis,Skipperish Tanmark",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/162771157/medium.jpeg"
+    },
+    "Emmericiella novimundi": {
+        "nombre_comun_principal": "Caracol de lodo",
+        "NombreCompleto": "Emmericiella novimundi",
+        "nombres_comunes_adicionales": "Caracol de lodo",
+        "foto_principal": null
+    },
+    "Epictia resetari": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Epictia resetari",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": "https://static.inaturalist.org/photos/113927347/medium.jpeg"
+    },
+    "Ergene setosa": {
+        "nombre_comun_principal": "Milpi\u00e9s",
+        "NombreCompleto": "Ergene setosa",
+        "nombres_comunes_adicionales": "Milpi\u00e9s",
+        "foto_principal": null
+    },
+    "Ergene setosus": {
+        "nombre_comun_principal": "",
+        "NombreCompleto": "Ergene setosa",
+        "nombres_comunes_adicionales": "Milpi\u00e9s",
+        "foto_principal": null
+    },
+    "Eryphanis aesacus": {
+        "nombre_comun_principal": "Mariposa b\u00faho de dos motas",
+        "NombreCompleto": "Eryphanis aesacus",
+        "nombres_comunes_adicionales": "Mariposa b\u00faho de dos motas,Buhito de manchas dobles,Double-spotted Owl-Butterfly",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/230594008/medium.jpeg"
+    },
+    "Euchaetes cressida": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Euchaetes cressida",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/185294489/medium.jpg"
+    },
+    "Eumeces brevirostris": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Eumeces brevirostris",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Eumeces lynxe": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Eumeces lynxe",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Euphoria basalis": {
+        "nombre_comun_principal": "Mayate de la calabaza",
+        "NombreCompleto": "Euphoria basalis",
+        "nombres_comunes_adicionales": "Mayate de la calabaza,\u30d5\u30bf\u30aa\u30d3\u30e1\u30ea\u30b1\u30f3\u30cf\u30ca\u30e0\u30b0\u30ea,Ayoxochquiltemoli",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/13260696/medium.jpg"
+    },
+    "Euphoria subtomentosa": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Euphoria subtomentosa",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": "https://static.inaturalist.org/photos/11546713/medium.jpeg"
+    },
+    "Ficimia olivacea": {
+        "nombre_comun_principal": "Culebra naricilla huasteca",
+        "NombreCompleto": "Ficimia olivacea",
+        "nombres_comunes_adicionales": "Culebra naricilla huasteca,Mexican Hook-nosed Snake,Huastecan Hooknose Snake,Brown hooknose snake,Mexikanische Hakennasennatter,\u041e\u043b\u0438\u0432\u043a\u043e\u0432\u0430\u044f \u043a\u0440\u044e\u0447\u043a\u043e\u043d\u043e\u0441\u0430\u044f \u0437\u043c\u0435\u044f",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/29193623/medium.jpg"
+    },
+    "Franckeus platnicki": {
+        "nombre_comun_principal": "\u0160t\u00edr Norman\u016fv",
+        "NombreCompleto": "Franckeus platnicki",
+        "nombres_comunes_adicionales": "\u0160t\u00edr Norman\u016fv",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/106270137/medium.jpg"
+    },
+    "Gambusia atrora": {
+        "nombre_comun_principal": "Guayac\u00f3n de San Luis",
+        "NombreCompleto": "Gambusia atrora",
+        "nombres_comunes_adicionales": "Guayac\u00f3n de San Luis,Blackfin Gambusia,Gambusie tmav\u00e1",
+        "foto_principal": "https://enciclovida.mx/fotoweb/cache/5037/Animales/Vertebrados/Peces/SGQ2516%20Gambusia%20atrora.t5a70d22c.m600.wConabioCornerCopy.jpg.xYv7C_lhlm5ZbtfV-00YtOGb-m5gVUwghZHtd7qxHFbM.jpg"
+    },
+    "Gambusia aurata": {
+        "nombre_comun_principal": "Guayac\u00f3n dorado",
+        "NombreCompleto": "Gambusia aurata",
+        "nombres_comunes_adicionales": "Guayac\u00f3n dorado,Gold Gambusia,Golden gambusia,Gambusie zlat\u00e1",
+        "foto_principal": "https://enciclovida.mx/fotoweb/cache/5037/Animales/Vertebrados/Peces/SGQ3306%20Gambusia%20aurata.t5b05cf3e.m600.wConabioCornerCopy.jpg.xh1C7DGNBPhkFhKpOqS4dqIenrggTjfwRpeBB_bwMJJI.jpg"
+    },
+    "Gambusia marshi": {
+        "nombre_comun_principal": "Guayac\u00f3n de Nadadores",
+        "NombreCompleto": "Gambusia marshi",
+        "nombres_comunes_adicionales": "Guayac\u00f3n de Nadadores,Robust Gambusia,Gambusie Marshova",
+        "foto_principal": "https://static.inaturalist.org/photos/2725547/medium.jpg"
+    },
+    "Gambusia regani": {
+        "nombre_comun_principal": "Guayac\u00f3n del Forl\u00f3n",
+        "NombreCompleto": "Gambusia regani",
+        "nombres_comunes_adicionales": "Guayac\u00f3n del Forl\u00f3n,Forlon Gambusia,Gambusie Reganova,Gambuzja Regana",
+        "foto_principal": "https://static.inaturalist.org/photos/665466/medium.JPG"
+    },
+    "Gambusia vittata": {
+        "nombre_comun_principal": "Guayac\u00f3n de Victoria",
+        "NombreCompleto": "Gambusia vittata",
+        "nombres_comunes_adicionales": "Guayac\u00f3n de Victoria,Gulf Gambusia,Gambusie \u010dernopruh\u00e1",
+        "foto_principal": "https://static.inaturalist.org/photos/1992864/medium.jpg"
+    },
+    "Geomys tropicalis": {
+        "nombre_comun_principal": "Tuza tropical",
+        "NombreCompleto": "Geomys tropicalis",
+        "nombres_comunes_adicionales": "Tuza tropical,Tuza,Tropical Pocket Gopher,Tropical Gopher,Tropical pocket gophers,Altamirantaskurotta,Pytlono\u0161 tropick\u00fd,\u30cd\u30c3\u30bf\u30a4\u30db\u30ea\u30cd\u30ba\u30df",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/1032961/medium.jpeg"
+    },
+    "Geophis latifrontalis": {
+        "nombre_comun_principal": "Culebra minera potosina",
+        "NombreCompleto": "Geophis latifrontalis",
+        "nombres_comunes_adicionales": "Culebra minera potosina,Minadora de San Luis Potos\u00ed,Potos\u00ed Earth Snake,Potosi Earth Snake",
+        "foto_principal": "https://static.inaturalist.org/photos/371184/medium.jpg"
+    },
+    "Geophis semiannulatus": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Geophis semiannulatus",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Geothlypis flavovelata": {
+        "nombre_comun_principal": "Mascarita de Altamira",
+        "NombreCompleto": "Geothlypis flavovelata",
+        "nombres_comunes_adicionales": "Mascarita de Altamira,Altamira Yellowthroat,Geelkruinmaskerzanger,Suolakkokerttuli,Goldscheitelgelbkehlchen,Les\u0148\u00e1\u010dek mexick\u00fd,Altamira sar\u0131gerdan\u0131,Paruline \u00e0 couronne jaune,Tamaulipasgulstrupe,Pia-cobra-de-coroa-amarela,\u0417\u043e\u043b\u043e\u0442\u043e\u0433\u043e\u043b\u043e\u0432\u044b\u0439 \u043c\u0430\u0441\u043a\u043e\u0432\u044b\u0439 \u043f\u0435\u0432\u0443\u043d,\u30ad\u30ba\u30ad\u30f3\u30ab\u30aa\u30b0\u30ed\u30e0\u30b7\u30af\u30a4,ALYE",
+        "foto_principal": "https://static.inaturalist.org/photos/6332405/medium.jpg"
+    },
+    "Geothlypis nelsoni": {
+        "nombre_comun_principal": "Mascarita matorralera",
+        "NombreCompleto": "Geothlypis nelsoni",
+        "nombres_comunes_adicionales": "Mascarita matorralera,Hooded Yellowthroat,Mexicaanse Geelkeelzanger,Nelsons Maskerzanger,Meksikonnaamiokerttuli,Berggelbkehlchen,Nelsongelbkehlchen,Les\u0148\u00e1\u010dek \u0161edopruh\u00fd,Da\u011f sar\u0131gerdan\u0131,Paruline de Nelson,Pedregalgulstrupe,Pia-cobra-de-capuz,\u0422\u0435\u043c\u043d\u043e\u043b\u043e\u0431\u044b\u0439 \u043c\u0430\u0441\u043a\u043e\u0432\u044b\u0439 \u043f\u0435\u0432\u0443\u043d,\u30ba\u30ad\u30f3\u30ab\u30aa\u30b0\u30ed\u30e0\u30b7\u30af\u30a4,HOYE",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/2029466/medium.jpg"
+    },
+    "Gerrhonotus farri": {
+        "nombre_comun_principal": "Lagartija caim\u00e1n de Tamaulipas",
+        "NombreCompleto": "Gerrhonotus farri",
+        "nombres_comunes_adicionales": "Lagartija caim\u00e1n de Tamaulipas,Alicante,Tamaulipan Alligator Lizard,Tamaulipas-Alligatorschleiche,Tamaulipas-alligator\u00f8gle",
+        "foto_principal": "https://static.inaturalist.org/photos/182578/medium.jpg"
+    },
+    "Gerrhonotus ophiurus": {
+        "nombre_comun_principal": "Lagartija caim\u00e1n de la Sierra Madre Oriental",
+        "NombreCompleto": "Gerrhonotus ophiurus",
+        "nombres_comunes_adicionales": "Lagartija caim\u00e1n de la Sierra Madre Oriental,Lagartija lagarto de la Sierra Madre Oriental,Smooth-headed Alligator Lizard",
+        "foto_principal": "https://static.inaturalist.org/photos/93303737/medium.jpg"
+    },
+    "Glaucidium sanchezi": {
+        "nombre_comun_principal": "Tecolote tamaulipeco",
+        "NombreCompleto": "Glaucidium sanchezi",
+        "nombres_comunes_adicionales": "Tecolote tamaulipeco,Tamaulipas Pygmy-Owl,Tamaulipasdwerguil,Tamaulipasinvarpusp\u00f6ll\u00f6,Sanchezzwergkauz,Kul\u00ed\u0161ek Sanchez\u016fv,Chev\u00eachette du Tamaulipas,Tamaulipasugle,Cabur\u00e9-de-tamaulipas,Tamaulipas t\u00f6rpekuvik,\u041c\u0435\u043a\u0441\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u043a\u0430\u0440\u043b\u0438\u043a\u043e\u0432\u044b\u0439 \u0441\u044b\u0447\u0438\u043a,\u30e1\u30ad\u30b7\u30b3\u30b9\u30ba\u30e1\u30d5\u30af\u30ed\u30a6,TAPO",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/175705577/medium.jpg"
+    },
+    "Glomeroides patei": {
+        "nombre_comun_principal": "Milpi\u00e9s",
+        "NombreCompleto": "Glomeroides patei",
+        "nombres_comunes_adicionales": "Milpi\u00e9s",
+        "foto_principal": null
+    },
+    "Glomeroides promiscus": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Glomeroides promiscus",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Greta annette": {
+        "nombre_comun_principal": "Mariposa alas de cristal de manchas blancas",
+        "NombreCompleto": "Greta annette",
+        "nombres_comunes_adicionales": "Mariposa alas de cristal de manchas blancas,White-spotted Clearwing,White-spotted Greta",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/2131845/medium.JPG"
+    },
+    "Handleyomys chapmani": {
+        "nombre_comun_principal": "Rata arrocera de Ixtl\u00e1n",
+        "NombreCompleto": "Handleyomys chapmani",
+        "nombres_comunes_adicionales": "Rata arrocera de Ixtl\u00e1n,Rata arrocera de Chapman,Rat\u00f3n de agua de la Sierra Madre Oriental,Chapman's Rice Rat,Chapman\u2019s Handley\u2019s Mouse,Pilviriisirattu,K\u0159e\u010dek Chapman\u016fv,Kolumbiarek mgielny,\u0420\u0438\u0441\u043e\u0432\u044b\u0439 \u0445\u043e\u043c\u044f\u043a \u0427\u0430\u043f\u043c\u0430\u043d\u0430,\u30c1\u30e3\u30c3\u30d7\u30de\u30f3\u30b3\u30e1\u30cd\u30ba\u30df",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/59624561/medium.jpeg"
+    },
+    "Handleyomys melanotis": {
+        "nombre_comun_principal": "Rata arrocera de orejas oscuras",
+        "NombreCompleto": "Handleyomys melanotis",
+        "nombres_comunes_adicionales": "Rata arrocera de orejas oscuras,Rata arrocera orejas negras,Rata arrocera,Rat\u00f3n de agua de orejas negras,Black-eared Rice Rat,Sinaloanriisirattu,Kolumbiarek czarnouchy,\u30af\u30ed\u30df\u30df\u30b3\u30e1\u30cd\u30ba\u30df",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/3909632/medium.JPG"
+    },
+    "Heliconius ismenius": {
+        "nombre_comun_principal": "Mariposa tigre de alas largas",
+        "NombreCompleto": "Heliconius ismenius",
+        "nombres_comunes_adicionales": "Mariposa tigre de alas largas,Alas largas atigrada,Ismenius tiger,Tiger-striped Longwing,Tiger Heliconian,Ismenius tijger,Eliconia tigrata",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/81937268/medium.jpg"
+    },
+    "Heliscus tropicus": {
+        "nombre_comun_principal": "Escarabajo pas\u00e1lido",
+        "NombreCompleto": "Heliscus tropicus",
+        "nombres_comunes_adicionales": "Escarabajo pas\u00e1lido",
+        "foto_principal": "https://enciclovida.mx/fotoweb/cache/5037/Animales/Invertebrados/MRAA%200167%20Heliscus%20tropicus.t591b25e4.m600.wConabioCornerCopy.jpg.xi0B8V47Y0cCHXIk-n9p5uHNbhAX8JvrO-ajb-xwdLJw.JPG"
+    },
+    "Herichthys carpintis": {
+        "nombre_comun_principal": "Mojarra tampique\u00f1a",
+        "NombreCompleto": "Herichthys carpintis",
+        "nombres_comunes_adicionales": "Mojarra tampique\u00f1a,C\u00edclido Texano verde,Lowland Cichlid,Pearlscale Cichlid,Green Texas Cichlid,Kan\u010d\u00edk texask\u00fd",
+        "foto_principal": "https://static.inaturalist.org/photos/660294/medium.JPG"
+    },
+    "Herichthys labridens": {
+        "nombre_comun_principal": "Mojarra huasteca",
+        "NombreCompleto": "Herichthys labridens",
+        "nombres_comunes_adicionales": "Mojarra huasteca,Blackcheek Cichlid,Curve-bar Cichlid",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/4256062/medium.jpg"
+    },
+    "Herichthys pantostictus": {
+        "nombre_comun_principal": "Mojarra de Chairel",
+        "NombreCompleto": "Herichthys pantostictus",
+        "nombres_comunes_adicionales": "Mojarra de Chairel,Chairel Cichlid,Green Labridens",
+        "foto_principal": "https://static.inaturalist.org/photos/660279/medium.JPG"
+    },
+    "Herichthys steindachneri": {
+        "nombre_comun_principal": "Mojarra del Ojo Fr\u00edo",
+        "NombreCompleto": "Herichthys steindachneri",
+        "nombres_comunes_adicionales": "Mojarra del Ojo Fr\u00edo,C\u00edclido de Steindachner,Mojarra ojo fr\u00edo,Slender Cichlid,Steindachner's Cichlid",
+        "foto_principal": "https://static.inaturalist.org/photos/78604395/medium.jpg"
+    },
+    "Heterandria jonesii": {
+        "nombre_comun_principal": "",
+        "NombreCompleto": "Heterandria jonesii",
+        "nombres_comunes_adicionales": "Guatopote listado",
+        "foto_principal": "https://static.inaturalist.org/photos/1387616/medium.png?1417375570"
+    },
+    "Holbrookia maculata approximans": {
+        "nombre_comun_principal": "",
+        "NombreCompleto": "Holbrookia maculata subsp. approximans",
+        "nombres_comunes_adicionales": "Perrilla de arena,Lagartija sorda manchadita,Speckled Earless Lizard",
+        "foto_principal": "https://static.inaturalist.org/photos/408063/medium.jpg?1373503563"
+    },
+    "Holcosus undulatus": {
+        "nombre_comun_principal": "Lagartija arcoiris",
+        "NombreCompleto": "Holcosus undulatus",
+        "nombres_comunes_adicionales": "Lagartija arcoiris,Lagartija met\u00e1lica,Rainbow Ameiva,Regenbogenameive,Mexicansk Regnbue-ameiva,Ameiva-met\u00e1lica,Ameiva-arco-\u00edris,Ameiva ondulata,\u0412\u043e\u043b\u043d\u0438\u0441\u0442\u0430\u044f \u0430\u043c\u0435\u0439\u0432\u0430",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/106626402/medium.jpeg"
+    },
+    "Holcosus undulatus amphigrammus": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Holcosus undulatus subsp. amphigrammus",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/10394190/medium.jpeg?1505172917"
+    },
+    "Homophileurus tricuspis": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Homophileurus tricuspis",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": "https://static.inaturalist.org/photos/13413478/medium.jpg"
+    },
+    "Hyla eximia": {
+        "nombre_comun_principal": "",
+        "NombreCompleto": "Hyla eximia",
+        "nombres_comunes_adicionales": "Rana arbor\u00edcola de monta\u00f1a,Rana verde manchada,Mountain Tree Frog,Mountaing tree frog,Perereca-das-montanhas,Rosni\u010dka horsk\u00e1,\u0421\u043e\u043d\u043e\u0440\u0441\u043a\u0430\u044f \u043a\u0432\u0430\u043a\u0448\u0430",
+        "foto_principal": "https://static.inaturalist.org/photos/10884312/medium.jpeg?1506906675"
+    },
+    "Hyla miotympanum": {
+        "nombre_comun_principal": "Calates",
+        "NombreCompleto": "Rheohyla miotympanum",
+        "nombres_comunes_adicionales": "Calates,Rana-de \u00e1rbol mixe,Rana de \u00e1rbol orejas chicas,Calate arbor\u00edcola,Calate,Small-eared Tree Frog,Small-eared treefrog,Rosni\u010dka \u017elutohub\u00e1,\u0416\u0435\u043b\u0442\u043e\u0433\u0443\u0431\u0430\u044f \u043a\u0432\u0430\u043a\u0448\u0430",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/1956958/medium.JPG"
+    },
+    "Hylocharis xantusii": {
+        "nombre_comun_principal": "",
+        "NombreCompleto": "Hylocharis xantusii",
+        "nombres_comunes_adicionales": "Zafiro Bajacaliforniano,Zafiro de Xantus,Xantus's Hummingbird,Schwarzstirn-Saphirkolibri,Colibri de Xantus,Naamiosafiirikolibri,Kolib\u0159\u00edk pruhol\u00edc\u00ed,XAHU",
+        "foto_principal": "https://static.inaturalist.org/photos/5640539/medium.jpg?1480389720"
+    },
+    "Hylorchilus sumichrasti": {
+        "nombre_comun_principal": "Cuevero de Sumichrast",
+        "NombreCompleto": "Hylorchilus sumichrasti",
+        "nombres_comunes_adicionales": "Cuevero de Sumichrast,Chivir\u00edn de Sumichrast,Sumichrast's Wren,Dunsnavelwinterkoning,Naskalipeukaloinen,St\u0159\u00edzl\u00edk tenkozob\u00fd,Troglodyte \u00e0 bec fin,Smalnebbsmett,V\u00e9konycs\u0151r\u0171 \u00f6k\u00f6rszem,\u30cf\u30b7\u30ca\u30ac\u30df\u30bd\u30b5\u30b6\u30a4,SUWR",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/93111983/medium.jpeg"
+    },
+    "Hypsiglena torquata": {
+        "nombre_comun_principal": "Culebra nocturna del Pac\u00edfico",
+        "NombreCompleto": "Hypsiglena torquata",
+        "nombres_comunes_adicionales": "Culebra nocturna del Pac\u00edfico,Culebra de la noche,Culebra ojo de gato,Culebra nocturna ojo de gato,Culebra Nocturna,Culebra noctura del Pac\u00edfico,Sinaloan Nightsnake,Night snake,Nachtschlange,Cobra-da-noite-de-sinaloa,Coimaj coospoj",
+        "foto_principal": "https://static.inaturalist.org/photos/2072222/medium.jpg"
+    },
+    "Ictalurus australis": {
+        "nombre_comun_principal": "Bagre del P\u00e1nuco",
+        "NombreCompleto": "Ictalurus australis",
+        "nombres_comunes_adicionales": "Bagre del P\u00e1nuco,Panuco Catfish,Sume\u010dek ji\u017en\u00ed",
+        "foto_principal": "https://enciclovida.mx/fotoweb/cache/5037/Animales/Vertebrados/Peces/ESG0167%20Ictalurus%20meridionalis.t537a53c0.m600.wConabioCornerCopy.jpg.xFvwq_N16AXdWWsoKQUEWFRXCekENDYd4-L775S8Z8_g.jpg"
+    },
+    "Ictalurus mexicanus": {
+        "nombre_comun_principal": "Bagre del Verde",
+        "NombreCompleto": "Ictalurus mexicanus",
+        "nombres_comunes_adicionales": "Bagre del Verde,Rio Verde Catfish,Sume\u010dek v\u00fdchodomexick\u00fd",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/17640849/medium.jpg"
+    },
+    "Ictalurus ochoterenai": {
+        "nombre_comun_principal": "Bagre de Chapala",
+        "NombreCompleto": "Ictalurus ochoterenai",
+        "nombres_comunes_adicionales": "Bagre de Chapala,Chapala Catfish,Sume\u010dek chapalansk\u00fd",
+        "foto_principal": null
+    },
+    "Icterus spurius fuertesi": {
+        "nombre_comun_principal": "",
+        "NombreCompleto": "Icterus spurius subsp. fuertesi",
+        "nombres_comunes_adicionales": "Calandria Veracruzana,Bolsero casta\u00f1o,Bolsero ocr\u00e1ceo,Bolsero de Fuertes,Fuertes's Oriole,Ochre Oriole,Okerbuktrupial",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/1672758/medium.jpg"
+    },
+    "Ilyma cornuta": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Lema cornuta",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Inocellia pilicornis": {
+        "nombre_comun_principal": "Moscas serpiente",
+        "NombreCompleto": "Indianoinocellia pilicornis",
+        "nombres_comunes_adicionales": "Moscas serpiente",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/132466137/medium.jpeg"
+    },
+    "Isonychus piperitus": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Isonychus piperitus",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Isthmura bellii": {
+        "nombre_comun_principal": "Tlaconete pinto",
+        "NombreCompleto": "Isthmura bellii",
+        "nombres_comunes_adicionales": "Tlaconete pinto,Salamandra,Ajolote de tierra,Bell's False Brook Salamander,Mlo\u010d\u00edk ozdobn\u00fd,\u0423\u043a\u0440\u0430\u0448\u0435\u043d\u043d\u0430\u044f \u0441\u0430\u043b\u0430\u043c\u0430\u043d\u0434\u0440\u0430",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/164430/medium.jpg"
+    },
+    "Ityphilus cifuentesi": {
+        "nombre_comun_principal": "Ciempi\u00e9s",
+        "NombreCompleto": "Ityphilus cifuentesi",
+        "nombres_comunes_adicionales": "Ciempi\u00e9s",
+        "foto_principal": null
+    },
+    "Kinosternon herrerai": {
+        "nombre_comun_principal": "Tortuga casquito pecho quebrado",
+        "NombreCompleto": "Kinosternon herrerai",
+        "nombres_comunes_adicionales": "Tortuga casquito pecho quebrado,Garlapago,Pochitoque,Tortuga pecho quebrado de Herrera,Casquito de Herrera,Galapago,Herrera's Mud Turtle,Herrara\u2019s Mud Turtle,Klapavka Herreraova,Herrera-Klappschildkr\u00f6te,Herreras Klappschildkr\u00f6te,\u0412\u0435\u0440\u0430\u043a\u0440\u0443\u0441\u0441\u043a\u0430\u044f \u0437\u0430\u043c\u044b\u043a\u0430\u044e\u0449\u0430\u044f\u0441\u044f \u0447\u0435\u0440\u0435\u043f\u0430\u0445\u0430,\u30cf\u30fc\u30ec\u30e9\u30c9\u30ed\u30ac\u30e1",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/1392279/medium.JPG"
+    },
+    "Kinosternon integrum": {
+        "nombre_comun_principal": "Tortuga pecho quebrado mexicana",
+        "NombreCompleto": "Kinosternon integrum",
+        "nombres_comunes_adicionales": "Tortuga pecho quebrado mexicana,Casquito de burro,Tortuga de agua,Tortuga de r\u00edo,Mexican Mud Turtle,Tartaruga-da-lama-mexicana,Klapavka uzav\u0159en\u00e1,Mexikanische Klappschildkro\u0308te,Mexicansk Klapskildpadde,\u041e\u0430\u0445\u0430\u043a\u0441\u043a\u0430\u044f \u0437\u0430\u043c\u044b\u043a\u0430\u044e\u0449\u0430\u044f\u0441\u044f \u0447\u0435\u0440\u0435\u043f\u0430\u0445\u0430,\u30b5\u30e9\u30c9\u30ed\u30ac\u30e1",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/2611830/medium.JPG"
+    },
+    "Lampropeltis mexicana": {
+        "nombre_comun_principal": "Falsa coralillo real mexicana",
+        "NombreCompleto": "Lampropeltis mexicana",
+        "nombres_comunes_adicionales": "Falsa coralillo real mexicana,Culebra real potosina,Falsa coralillo real,Culebra real escarlata,Mexican Kingsnake,Gray-banded kingsnake,San Luis Potos\u00ed king snake,Kor\u00e1lovka mexick\u00e1,\u041c\u0435\u043a\u0441\u0438\u043a\u0430\u043d\u0441\u043a\u0430\u044f \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u0430\u044f \u0437\u043c\u0435\u044f,Mexican Kingsnake",
+        "foto_principal": "https://static.inaturalist.org/photos/27256598/medium.jpeg"
+    },
+    "Lampropeltis polyzona": {
+        "nombre_comun_principal": "Falsa coralillo real occidental",
+        "NombreCompleto": "Lampropeltis polyzona",
+        "nombres_comunes_adicionales": "Falsa coralillo real occidental,Falsa coralillo,West Mexican Milksnake,Nelsons Dreiecksnatter,Kor\u00e1lovka sedlat\u00e1 sinalojsk\u00e1,Kor\u00e1lovka sedlat\u00e1 Nelsonova,\u041a\u043e\u0440\u043e\u043b\u0456\u0432\u0441\u044c\u043a\u0430 \u0437\u043c\u0456\u044f \u0437\u0430\u0445\u0456\u0434\u043d\u043e\u043c\u0435\u043a\u0441\u0438\u043a\u0430\u043d\u0441\u044c\u043a\u0430",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/177308695/medium.jpg"
+    },
+    "Lampropeltis triangulum arcifera": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Lampropeltis triangulum subsp. arcifera",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Lasaia maria anna": {
+        "nombre_comun_principal": "",
+        "NombreCompleto": "Lasaia maria subsp. anna",
+        "nombres_comunes_adicionales": "Mariposa azul gris\u00e1ceo del Golfo",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/93285003/medium.jpg"
+    },
+    "Leiobunum viridorsum": {
+        "nombre_comun_principal": "Opili\u00f3n verde o segador",
+        "NombreCompleto": "Leiobunum viridorsum",
+        "nombres_comunes_adicionales": "Opili\u00f3n verde o segador,Sek\u00e1\u010d zelenozlat\u00fd",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/1388304/medium.jpg"
+    },
+    "Lepidophyma flavimaculatum tenebrarum": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Lepidophyma flavimaculatum subsp. tenebrarum",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Lepidophyma micropholis": {
+        "nombre_comun_principal": "Lagartija Nocturna de Cueva",
+        "NombreCompleto": "Lepidophyma micropholis",
+        "nombres_comunes_adicionales": "Lagartija Nocturna de Cueva,Cave Tropical Night Lizard,Cape night lizard",
+        "foto_principal": "https://static.inaturalist.org/photos/4970568/medium.jpg"
+    },
+    "Lepidophyma sylvaticum": {
+        "nombre_comun_principal": "Lagartija nocturna de monta\u00f1a",
+        "NombreCompleto": "Lepidophyma sylvaticum",
+        "nombres_comunes_adicionales": "Lagartija nocturna de monta\u00f1a,Madrean Tropical Night Lizard,\u041b\u0435\u0441\u043d\u0430\u044f \u043b\u0435\u043f\u0438\u0434\u043e\u0444\u0438\u043c\u0430",
+        "foto_principal": "https://static.inaturalist.org/photos/599381/medium.jpg"
+    },
+    "Leptotyphlops bressoni": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Leptotyphlops bressoni",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Leptotyphlops dulcis": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Leptotyphlops dulcis",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": "http://bdi.conabio.gob.mx/fotoweb/cache/5001/Animales/Vertebrados/Reptiles/JCHM0064%20Leptotyphlops%20dulcis.t4d3744d6.m600.wConabioCornerCopy.jpg.xzGH-TliFcK49mcQlIsO1Or7zgVfN-1snpfWHA0NnPro.jpg"
+    },
+    "Leptotyphlops dulcis dissectus": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Leptotyphlops dulcis subsp. dissectus",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Leptotyphlops dulcis dulcis": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Leptotyphlops dulcis subsp. dulcis",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Leptotyphlops dulcis myopicus": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Leptotyphlops dulcis subsp. myopicus",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Leptotyphlops myopicus": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Leptotyphlops myopicus",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Lerina incarnata": {
+        "nombre_comun_principal": "Oruga del pinillo",
+        "NombreCompleto": "Lerina incarnata",
+        "nombres_comunes_adicionales": "Oruga del pinillo",
+        "foto_principal": "https://static.inaturalist.org/photos/1371141/medium.jpg"
+    },
+    "Lithasiopsis crassus": {
+        "nombre_comun_principal": "Caracol de agua dulce",
+        "NombreCompleto": "Lithasiopsis crassus",
+        "nombres_comunes_adicionales": "Caracol de agua dulce",
+        "foto_principal": null
+    },
+    "Lithasiopsis darnelli": {
+        "nombre_comun_principal": "Caracol de agua dulce",
+        "NombreCompleto": "Lithasiopsis darnelli",
+        "nombres_comunes_adicionales": "Caracol de agua dulce",
+        "foto_principal": null
+    },
+    "Lithasiopsis hinkleyi": {
+        "nombre_comun_principal": "Caracol de agua dulce",
+        "NombreCompleto": "Lithasiopsis hinkleyi",
+        "nombres_comunes_adicionales": "Caracol de agua dulce",
+        "foto_principal": null
+    },
+    "Lithasiopsis mexicanus": {
+        "nombre_comun_principal": "Caracol de agua dulce",
+        "NombreCompleto": "Lithasiopsis mexicanus",
+        "nombres_comunes_adicionales": "Caracol de agua dulce",
+        "foto_principal": null
+    },
+    "Macraspis rufonitida": {
+        "nombre_comun_principal": "Escarabajo met\u00e1lico verde-azul",
+        "NombreCompleto": "Macraspis rufonitida",
+        "nombres_comunes_adicionales": "Escarabajo met\u00e1lico verde-azul",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/18077890/medium.jpg"
+    },
+    "Macropoides nietoi": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Macropoides nietoi",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": "https://static.inaturalist.org/photos/75932648/medium.jpg"
+    },
+    "Mayobius victoriae": {
+        "nombre_comun_principal": "Ciempi\u00e9s",
+        "NombreCompleto": "Mayobius victoriae",
+        "nombres_comunes_adicionales": "Ciempi\u00e9s",
+        "foto_principal": null
+    },
+    "Melanerpes chrysogenys": {
+        "nombre_comun_principal": "Carpintero enmascarado",
+        "NombreCompleto": "Melanerpes chrysogenys",
+        "nombres_comunes_adicionales": "Carpintero enmascarado,Carpintero cachetidorado,Golden-cheeked Woodpecker,Goldwangenspecht,Pipa-pau-de-bochecha-dourada,Pic \u00e9l\u00e9gant,Goudwangspecht,Gulkindad hackspett,Mustakulmatikka,Datel ozdobn\u00fd,Gulkindet Sp\u00e6tte,Picchio guancedorate,Gullkinnspett,Dzi\u0119ciur z\u0142otolicy,Laiksilm-leetr\u00e4hn,\u0417\u043e\u043b\u043e\u0442\u043e\u0449\u0451\u043a\u0438\u0439 \u043c\u0435\u043b\u0430\u043d\u0435\u0440\u043f\u0435\u0441,\u30e1\u30ac\u30cd\u30b7\u30de\u30bb\u30b2\u30e9,GCHW",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/2398494/medium.jpg"
+    },
+    "Melanotis caerulescens": {
+        "nombre_comun_principal": "Mulato azul",
+        "NombreCompleto": "Melanotis caerulescens",
+        "nombres_comunes_adicionales": "Mulato azul,Blue Mockingbird,Moqueur bleu,Blauwe Spotlijster,Sinimatkija,Drozdec modr\u00fd,Blauspottdrossel,Bl\u00e5 Spottedrossel,Bl\u00e5spottefugl,K\u00e9k gezerig\u00f3,\u0e19\u0e01\u0e21\u0e47\u0e2d\u0e01\u0e01\u0e34\u0e07\u0e2a\u0e35\u0e19\u0e49\u0e33\u0e40\u0e07\u0e34\u0e19,\u0421\u0438\u043d\u0438\u0439 \u0447\u0435\u0440\u043d\u043e\u0443\u0445\u0438\u0439 \u043f\u0435\u0440\u0435\u0441\u043c\u0435\u0448\u043d\u0438\u043a,\u30a2\u30aa\u30de\u30cd\u30b7\u30c4\u30b0\u30df,BLMO,Tzompan",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/82773690/medium.jpg"
+    },
+    "Mexicambala inopis": {
+        "nombre_comun_principal": "Milpi\u00e9s",
+        "NombreCompleto": "Mexicambala inopis",
+        "nombres_comunes_adicionales": "Milpi\u00e9s",
+        "foto_principal": null
+    },
+    "Mexidesmus harrisoni": {
+        "nombre_comun_principal": "Milpi\u00e9s",
+        "NombreCompleto": "Mexidesmus harrisoni",
+        "nombres_comunes_adicionales": "Milpi\u00e9s",
+        "foto_principal": null
+    },
+    "Mexiterpes calenturas": {
+        "nombre_comun_principal": "Milpi\u00e9s",
+        "NombreCompleto": "Mexiterpes calenturas",
+        "nombres_comunes_adicionales": "Milpi\u00e9s",
+        "foto_principal": null
+    },
+    "Micrurus tamaulipensis": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Micrurus tamaulipensis",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Molippa nibasa": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Molippa nibasa",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/142181966/medium.jpeg"
+    },
+    "Momotus coeruliceps": {
+        "nombre_comun_principal": "Momoto corona azul",
+        "NombreCompleto": "Momotus coeruliceps",
+        "nombres_comunes_adicionales": "Momoto corona azul,Blue-capped Motmot,Blue-capped Blue-crowned Motmot,Northeast Mexican Blue-crowned Motmot,Blue-crowned Motmot,Motmot \u00e0 t\u00eate bleue,Blauwkruinmotmot,Sinikruunumomotti,Bloukroonmotmot,Bl\u00e5kronet Motmot,Motmot dal diadema blu,Motmot corona blu,Bl\u00e5kronemotmot,\u0645\u0637\u0645\u0648\u0637 \u0623\u0632\u0631\u0642 \u0627\u0644\u0642\u0628\u0639\u0629,\u0e19\u0e01\u0e42\u0e21\u0e15\u0e42\u0e21\u0e15\u0e2b\u0e31\u0e27\u0e2a\u0e35\u0e1f\u0e49\u0e32,Blauscheitelmotmot,\u041b\u0430\u0437\u0443\u0440\u043d\u043e\u043a\u043e\u0440\u043e\u043d\u043d\u044b\u0439 \u043c\u043e\u043c\u043e\u0442,\u30a2\u30aa\u30ba\u30ad\u30f3\u30cf\u30c1\u30af\u30a4\u30e2\u30c9\u30ad,BCMO",
+        "foto_principal": "https://static.inaturalist.org/photos/74560766/medium.jpg"
+    },
+    "Myrmecodesmus cornutus": {
+        "nombre_comun_principal": "Milpi\u00e9s",
+        "NombreCompleto": "Myrmecodesmus cornutus",
+        "nombres_comunes_adicionales": "Milpi\u00e9s",
+        "foto_principal": null
+    },
+    "Myrmecodesmus egenus": {
+        "nombre_comun_principal": "Milpi\u00e9s",
+        "NombreCompleto": "Myrmecodesmus egenus",
+        "nombres_comunes_adicionales": "Milpi\u00e9s",
+        "foto_principal": null
+    },
+    "Myrmecodesmus errabundus": {
+        "nombre_comun_principal": "Milpi\u00e9s",
+        "NombreCompleto": "Myrmecodesmus errabundus",
+        "nombres_comunes_adicionales": "Milpi\u00e9s",
+        "foto_principal": null
+    },
+    "Nannoparce poeyi haterius": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Nannoparce poeyi subsp. haterius",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/150218637/medium.jpg"
+    },
+    "Neanthes micromma": {
+        "nombre_comun_principal": "Poliqueto",
+        "NombreCompleto": "Neanthes micromma",
+        "nombres_comunes_adicionales": "Poliqueto",
+        "foto_principal": null
+    },
+    "Neetroplus carpintis": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Neetroplus carpintis",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Neoathyreus (Neoathyreus) mixtus": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Neoathyreus (Neoathyreus) mixtus",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Neotoma angustapalata": {
+        "nombre_comun_principal": "Rata cambalachera de Tamaulipas",
+        "NombreCompleto": "Neotoma angustapalata",
+        "nombres_comunes_adicionales": "Rata cambalachera de Tamaulipas,Rata de campo,Rata de campo de Tamaulipeca,Tamaulipan Woodrat,Tamaulipas woodrat,Tucsoninkauppiasrattu,K\u0159e\u010dek \u00fazko\u00fast\u00fd,Nowik cienkonosy,\u0422\u0430\u043c\u0430\u0443\u043b\u0438\u043f\u0430\u043d\u0441\u043a\u0438\u0439 \u043b\u0435\u0441\u043d\u043e\u0439 \u0445\u043e\u043c\u044f\u043a,\u30bf\u30a6\u30de\u30ea\u30d1\u30b9\u30a6\u30c3\u30c9\u30e9\u30c3\u30c8",
+        "foto_principal": null
+    },
+    "Newportia atoyaca": {
+        "nombre_comun_principal": "Ciempi\u00e9s",
+        "NombreCompleto": "Newportia atoyaca",
+        "nombres_comunes_adicionales": "Ciempi\u00e9s",
+        "foto_principal": null
+    },
+    "Newportia morela": {
+        "nombre_comun_principal": "Ciempi\u00e9s",
+        "NombreCompleto": "Newportia morela",
+        "nombres_comunes_adicionales": "Ciempi\u00e9s",
+        "foto_principal": null
+    },
+    "Newportia oreina": {
+        "nombre_comun_principal": "Ciempi\u00e9s",
+        "NombreCompleto": "Newportia oreina",
+        "nombres_comunes_adicionales": "Ciempi\u00e9s",
+        "foto_principal": null
+    },
+    "Newportia troglobia": {
+        "nombre_comun_principal": "Ciempi\u00e9s",
+        "NombreCompleto": "Newportia troglobia",
+        "nombres_comunes_adicionales": "Ciempi\u00e9s",
+        "foto_principal": null
+    },
+    "Nosferatu steindachneri": {
+        "nombre_comun_principal": "",
+        "NombreCompleto": "Nosferatu steindachneri",
+        "nombres_comunes_adicionales": "Mojarra del Ojo Fr\u00edo,Steindachner's Cichlid",
+        "foto_principal": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Aquatic_life_(1917-1918)_(19559376700).jpg/500px-Aquatic_life_(1917-1918)_(19559376700).jpg"
+    },
+    "Notiosorex villai": {
+        "nombre_comun_principal": "Musara\u00f1a de la Sierra Madre Oriental",
+        "NombreCompleto": "Notiosorex villai",
+        "nombres_comunes_adicionales": "Musara\u00f1a de la Sierra Madre Oriental,Musara\u00f1a,Musara\u00f1a del desierto de Tamaulipas,Villa's Gray Shrew,Villa's Grey Shrew,\u30f4\u30a3\u30e9\u30b5\u30d0\u30af\u30c8\u30ac\u30ea\u30cd\u30ba\u30df",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/678063/medium.JPG"
+    },
+    "Notropis aguirrepequenoi": {
+        "nombre_comun_principal": "Carpita del Pil\u00f3n",
+        "NombreCompleto": "Notropis aguirrepequenoi",
+        "nombres_comunes_adicionales": "Carpita del Pil\u00f3n,Soto la Marina Shiner,Jele\u010dek mexick\u00fd",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/6487313/medium.jpg"
+    },
+    "Notropis tropicus": {
+        "nombre_comun_principal": "Carpita tropical",
+        "NombreCompleto": "Notropis tropicus",
+        "nombres_comunes_adicionales": "Carpita tropical,Pygmy Shiner,Jele\u010dek tamaulipask\u00fd",
+        "foto_principal": "https://static.inaturalist.org/photos/667842/medium.JPG"
+    },
+    "Oceanodroma macrodactyla": {
+        "nombre_comun_principal": "",
+        "NombreCompleto": "Oceanodroma macrodactyla",
+        "nombres_comunes_adicionales": "Pa\u00ed\u00f1o de Isla Guadalupe,Pa\u00ed\u00f1o de Guadalupe,Guadalupe Storm-Petrel,Guadalupenkeiju,Bu\u0159\u0148\u00e1\u010dek guadalupsk\u00fd,GUSP",
+        "foto_principal": "https://static.inaturalist.org/photos/173009/medium.jpg?1545853326"
+    },
+    "Onthophagus (Onthophagus) durangoensis": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Onthophagus (Onthophagus) durangoensis",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Onthophagus (Onthophagus) knulli": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Onthophagus (Onthophagus) knulli",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Ophisaurus incomptus": {
+        "nombre_comun_principal": "Lagartija sin patas tamaulipeca",
+        "NombreCompleto": "Ophisaurus incomptus",
+        "nombres_comunes_adicionales": "Lagartija sin patas tamaulipeca,Culebrilla de cristal de San Luis Potos\u00ed,Plain-necked Glass Lizard,Plainneck Glass Lizard",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/1399328/medium.jpg"
+    },
+    "Orthoporus asper": {
+        "nombre_comun_principal": "Milpi\u00e9s",
+        "NombreCompleto": "Orthoporus asper",
+        "nombres_comunes_adicionales": "Milpi\u00e9s",
+        "foto_principal": null
+    },
+    "Orthoporus mimus": {
+        "nombre_comun_principal": "Milpi\u00e9s",
+        "NombreCompleto": "Orthoporus mimus",
+        "nombres_comunes_adicionales": "Milpi\u00e9s",
+        "foto_principal": "https://static.inaturalist.org/photos/23232706/medium.jpeg"
+    },
+    "Oryzomys chapmani": {
+        "nombre_comun_principal": "",
+        "NombreCompleto": "Oryzomys chapmani",
+        "nombres_comunes_adicionales": "Rata arrocera de Chapman,Chapman\u2019s rice rat",
+        "foto_principal": "https://enciclovida.mx/fotoweb/cache/5008/Animales/Vertebrados/Mam%C3%ADferos/NGR0051%20Oryzomys%20chapmani%20ssp.%20chapmani.t4c471df8.m600.wConabioCornerCopy.jpg.xgTeNMExko79PTrtESuNCd1v53i2X1CKn2wJ83FGyQeM.jpg"
+    },
+    "Oryzomys melanotis": {
+        "nombre_comun_principal": "",
+        "NombreCompleto": "Oryzomys melanotis",
+        "nombres_comunes_adicionales": "Rata arrocera orejas negras,Rata arrocera,Black-eared rice rat",
+        "foto_principal": "https://enciclovida.mx/fotoweb/cache/5037/Animales/Vertebrados/Mam%C3%ADferos/FXGC0134%20Oryzomys%20melanotis.t4e1302a2.m600.wConabioCornerCopy.jpg.xDVG5bV1gK5_Dp7qUQPyBdh575X6rRbqaeS9s_hFXBfI.jpg"
+    },
+    "Pachychilus (Oxymelania) vallesensis": {
+        "nombre_comun_principal": "Caracol de agua dulce",
+        "NombreCompleto": "Pachychilus (Oxymelania) vallesensis",
+        "nombres_comunes_adicionales": "Caracol de agua dulce",
+        "foto_principal": null
+    },
+    "Pachychilus atratus": {
+        "nombre_comun_principal": "",
+        "NombreCompleto": "Pachychilus (Oxymelania) atratus",
+        "nombres_comunes_adicionales": "Caracol de agua dulce",
+        "foto_principal": null
+    },
+    "Pachychilus atratus suprastriatus": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Pachychilus atratus subsp. suprastriatus",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Pachychilus corpulentus": {
+        "nombre_comun_principal": "",
+        "NombreCompleto": "Pachychilus (Oxymelania) corpulentus",
+        "nombres_comunes_adicionales": "Caracol de agua dulce",
+        "foto_principal": null
+    },
+    "Pachychilus pleurostriatus": {
+        "nombre_comun_principal": "",
+        "NombreCompleto": "Pachychilus (Oxymelania) pleurostriatus",
+        "nombres_comunes_adicionales": "Caracol de agua dulce",
+        "foto_principal": null
+    },
+    "Pachychilus turatii": {
+        "nombre_comun_principal": "",
+        "NombreCompleto": "Pachychilus (Pachychilus) turati",
+        "nombres_comunes_adicionales": "Caracol de agua dulce",
+        "foto_principal": null
+    },
+    "Panthera onca veraecrucis": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Panthera onca subsp. veraecrucis",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": "https://enciclovida.mx/fotoweb/cache/v2/F/X/Animales/Vertebrados/Mam%C3%ADferos/DZM005%20Panthera%20onca%20ssp.%20veraecrucis.JPG.kCfrzIzMMV0luyFjsAng0JtbmFja29CbnFuZ3NAbXJ6LGtwZQA.onwf5GqWqP.jpg"
+    },
+    "Passalus (Pertinax) cognatus": {
+        "nombre_comun_principal": "Escarabajo pas\u00e1lido",
+        "NombreCompleto": "Passalus (Pertinax) cognatus",
+        "nombres_comunes_adicionales": "Escarabajo pas\u00e1lido",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/11646347/medium.jpg"
+    },
+    "Perognathus nelsoni": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Perognathus nelsoni",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Peromyscus boylii levipes": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Peromyscus boylii subsp. evides",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Peromyscus difficilis": {
+        "nombre_comun_principal": "Rat\u00f3n de las rocas",
+        "NombreCompleto": "Peromyscus difficilis",
+        "nombres_comunes_adicionales": "Rat\u00f3n de las rocas,Rat\u00f3n de roca,Rat\u00f3n de campo,Rat\u00f3n,Rat\u00f3n de las rocas del sur,Rock Mouse,Zacatecan Deer Mouse,Southern rock deermouse,Kalliopeurahiiru,K\u0159e\u010dek zakatek\u00e1nsk\u00fd,Myszak skalny,\u30b3\u30ed\u30e9\u30c9\u30b7\u30ed\u30a2\u30b7\u30de\u30a6\u30b9,Chik\u00fari",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/412344/medium.jpg"
+    },
+    "Peromyscus furvus": {
+        "nombre_comun_principal": "Rat\u00f3n negruzco",
+        "NombreCompleto": "Peromyscus furvus",
+        "nombres_comunes_adicionales": "Rat\u00f3n negruzco,Rat\u00f3n de campo,Blackish Deer Mouse,Blackish deermouse,Sierramadrenpeurahiiru,Myszak czarnawy,\u0427\u0435\u0440\u043d\u043e\u0432\u0430\u0442\u044b\u0439 \u0445\u043e\u043c\u044f\u0447\u043e\u043a,\u30b9\u30b9\u30b7\u30ed\u30a2\u30b7\u30de\u30a6\u30b9",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/70730100/medium.jpeg"
+    },
+    "Peromyscus leucopus incensus": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Peromyscus leucopus subsp. incensus",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Peromyscus levipes": {
+        "nombre_comun_principal": "Rat\u00f3n de La Malinche",
+        "NombreCompleto": "Peromyscus levipes",
+        "nombres_comunes_adicionales": "Rat\u00f3n de La Malinche,Rat\u00f3n de campo,Rat\u00f3n de patas agiles,Nimble-footed Mouse,Nimble-footed Deer Mouse,La Malinche mouse,Oaxacanpeurahiiru,\u30b7\u30e5\u30f3\u30bd\u30af\u30b7\u30ed\u30a2\u30b7\u30de\u30a6\u30b9",
+        "foto_principal": "https://static.inaturalist.org/photos/574450/medium.jpg"
+    },
+    "Peromyscus melanocarpus": {
+        "nombre_comun_principal": "Rat\u00f3n manos negras de Zempoaltepec",
+        "NombreCompleto": "Peromyscus melanocarpus",
+        "nombres_comunes_adicionales": "Rat\u00f3n manos negras de Zempoaltepec,Rat\u00f3n manos negras,Rat\u00f3n de campo,Rat\u00f3n de patas negras,Zempoaltepec Deer Mouse,Black-wristed Deer Mouse,Tempoaltepec,Zempoaltepec,Black-wristed Deermouse,Zempoaltepec Deermouse,Pilvipeurahiiru,Zempoaltepec-Hirschmaus,Myszak nadgarstkowy,\u0427\u0435\u0440\u043d\u043e\u043d\u043e\u0433\u0438\u0439 \u0445\u043e\u043c\u044f\u0447\u043e\u043a,\u30af\u30ed\u30c6\u30b7\u30ed\u30a2\u30b7\u30de\u30a6\u30b9,\uc82c\ud3ec\uc54c\ud14c\ud399\uc0ac\uc2b4\uc950",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/59624376/medium.jpeg"
+    },
+    "Peromyscus melanophrys": {
+        "nombre_comun_principal": "Rat\u00f3n de meseta",
+        "NombreCompleto": "Peromyscus melanophrys",
+        "nombres_comunes_adicionales": "Rat\u00f3n de meseta,Rat\u00f3n de campo,Rat\u00f3n del altiplano,Plateau Mouse,Plateau Deer Mouse,Durangonpeurahiiru,Myszak czarnow\u0105sy,\u30af\u30ed\u30d2\u30b8\u30b7\u30ed\u30a2\u30b7\u30de\u30a6\u30b9",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/377992/medium.JPG"
+    },
+    "Peromyscus melanotis": {
+        "nombre_comun_principal": "Rat\u00f3n orejas negras",
+        "NombreCompleto": "Peromyscus melanotis",
+        "nombres_comunes_adicionales": "Rat\u00f3n orejas negras,Rat\u00f3n,Rat\u00f3n de orejas negras,Black-eared Mouse,Black-eared deermouse,Pimanpeurahiiru,Myszak czarnouchy,\u0427\u0435\u0440\u043d\u043e\u0443\u0445\u0438\u0439 \u0445\u043e\u043c\u044f\u0447\u043e\u043a,\u30af\u30ed\u30df\u30df\u30b7\u30ed\u30a2\u30b7\u30de\u30a6\u30b9,Chik\u00fari",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/434726/medium.jpg"
+    },
+    "Peromyscus ochraventer": {
+        "nombre_comun_principal": "Rat\u00f3n de El Carrizo",
+        "NombreCompleto": "Peromyscus ochraventer",
+        "nombres_comunes_adicionales": "Rat\u00f3n de El Carrizo,Rat\u00f3n,Rat\u00f3n de vientre caf\u00e9,El Carrizo Deer Mouse,El Carrizo deermouse,Tamaulipasinpeurahiiru,Myszak ochrowobrzuchy,\u041a\u0440\u0430\u0441\u043d\u043e\u0431\u0440\u044e\u0445\u0438\u0439 \u0445\u043e\u043c\u044f\u0447\u043e\u043a,\u30ad\u30d0\u30e9\u30b7\u30ed\u30a2\u30b7\u30de\u30a6\u30b9",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/766578/medium.JPG"
+    },
+    "Peromyscus pectoralis": {
+        "nombre_comun_principal": "Rat\u00f3n tobillo blanco",
+        "NombreCompleto": "Peromyscus pectoralis",
+        "nombres_comunes_adicionales": "Rat\u00f3n tobillo blanco,Rat\u00f3n de campo,Rat\u00f3n de ancas blancas,White-ankled Mouse,White-ankled Deer Mouse,Pensaspeurahiiru,Myszak wy\u017cynny,\u0411\u0435\u043b\u043e\u043a\u043e\u043b\u0435\u043d\u043d\u044b\u0439 \u0445\u043e\u043c\u044f\u0447\u043e\u043a,\u30e0\u30cd\u30d5\u30b7\u30ed\u30a2\u30b7\u30de\u30a6\u30b9",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/377895/medium.JPG"
+    },
+    "Peromyscus pectoralis collinus": {
+        "nombre_comun_principal": "",
+        "NombreCompleto": "Peromyscus pectoralis subsp. collinus",
+        "nombres_comunes_adicionales": "Rat\u00f3n tobillo blanco",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/18670708/medium.jpeg"
+    },
+    "Phanaeus (Phanaeus) adonis": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Phanaeus (Phanaeus) adonis",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/4339070/medium.jpeg"
+    },
+    "Phanaeus (Phanaeus) difformis": {
+        "nombre_comun_principal": "Rainbow Scarab",
+        "NombreCompleto": "Phanaeus (Phanaeus) difformis",
+        "nombres_comunes_adicionales": "Rainbow Scarab",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/360228/medium.jpg"
+    },
+    "Phanaeus amethystinus amethystinus": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Phanaeus amethystinus subsp. amethystinus",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Phrynosoma orbiculare": {
+        "nombre_comun_principal": "Camale\u00f3n de monta\u00f1a",
+        "NombreCompleto": "Phrynosoma orbiculare",
+        "nombres_comunes_adicionales": "Camale\u00f3n de monta\u00f1a,Falso Camale\u00f3n,Sapo Cornudo,Dragoncito,Camale\u00f3n,Lagartija cornuda de monta\u00f1a,Mountain Horned Lizard,Mountain Horned Dragon,Mountain hornet lizard,Lagarto-de-chifre-das-montanhas,Mexikanische Kurzhorn-Kr\u00f6tenechse,Bjerg-tudseleguan,\u30e4\u30de\u30c4\u30ce\u30c8\u30ab\u30b2,Tapayatzin",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/8390346/medium.jpg"
+    },
+    "Phyllophaga (Phyllophaga) pubicauda": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Phyllophaga (Phyllophaga) pubicauda",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Phyllophaga (Phyllophaga) quetzala": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Phyllophaga (Phyllophaga) quetzala",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Phyllophaga (Phyllophaga) quetzaloides": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Phyllophaga (Phyllophaga) quetzaloides",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Phyllophaga (Phyllophaga) rolbakeri": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Phyllophaga (Phyllophaga) rolbakeri",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Phyllophaga (Phyllophaga) saylori": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Phyllophaga (Phyllophaga) saylori",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Phyllophaga (Phyllophaga) temora": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Phyllophaga (Phyllophaga) temora",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Phyllophaga (Phytalus) pameana": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Phyllophaga (Phytalus) pameana",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Pituophis deppei": {
+        "nombre_comun_principal": "Alicante",
+        "NombreCompleto": "Pituophis deppei",
+        "nombres_comunes_adicionales": "Alicante,Cincuate mexicano,Cencuate mexicano,Serpiente del maizal,Cincuate,Culebra sorda mexicana,Ratonera,Cincuate mexicana,Culebra casera,Mexican Bull Snake,Mexican pine snake,Cobra-touro-mexicana,Mexicansk Tyresnog,Mexikanische Kiefernnatter,Cinc\u014d\u0101tl,Cenc\u014d\u0101tl",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/5500997/medium.jpeg"
+    },
+    "Platydema elegans": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Platydema elegans",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Platydema lucens": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Platydema lucens",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Platypoecilus variatus": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Platypoecilus variatus",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Platypoecilus xiphidium": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Platypoecilus xiphidium",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Plecotus mexicanus": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Plecotus mexicanus",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": "http://bdi.conabio.gob.mx/fotoweb/cache/5035/Otros%20Archivos/Ilustraciones/ANP0044%20%20Plecotus%20mexicanus.t4a9297cc.m600.wConabioCornerCopy.jpg.xo3UFDkwiYrSFcxbZ3epnMQVYIf8eLP_jAd4GrNkpLmg.jpg"
+    },
+    "Plestiodon brevirostris": {
+        "nombre_comun_principal": "Esliz\u00f3n chato",
+        "NombreCompleto": "Plestiodon brevirostris",
+        "nombres_comunes_adicionales": "Esliz\u00f3n chato,Ajolote,Salamanquesa,Shortnose Skink",
+        "foto_principal": "https://static.inaturalist.org/photos/7858089/medium.jpeg"
+    },
+    "Plusiotis badeni": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Plusiotis badeni",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Plusiotis terroni": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Plusiotis terroni",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Poecilia latipunctata": {
+        "nombre_comun_principal": "Topote del Tames\u00ed",
+        "NombreCompleto": "Poecilia latipunctata",
+        "nombres_comunes_adicionales": "Topote del Tames\u00ed,Tames\u00ed Molly,Broadspotted molly,\u017divorodka \u0159et\u00edzkoskvrnn\u00e1,\u0645\u0648\u0644\u064a \u062a\u0627\u0645\u0633\u064a",
+        "foto_principal": "https://static.inaturalist.org/photos/664609/medium.JPG"
+    },
+    "Poeciliopsis infans": {
+        "nombre_comun_principal": "Guatopote del Lerma",
+        "NombreCompleto": "Poeciliopsis infans",
+        "nombres_comunes_adicionales": "Guatopote del Lerma,Lerma Livebearer,\u017divorod\u011bnka \u010dern\u00e1",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/38916400/medium.jpeg"
+    },
+    "Prietella lundbergi": {
+        "nombre_comun_principal": "Bagre ciego duende",
+        "NombreCompleto": "Prietella lundbergi",
+        "nombres_comunes_adicionales": "Bagre ciego duende,Phantom Blindcat,Sume\u010dek prameni\u0161tn\u00ed",
+        "foto_principal": null
+    },
+    "Procambarus (Girardiella) simulans regiomontanus": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Procambarus (Girardiella) simulans subsp. regiomontanus",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Procambarus regiomontanus": {
+        "nombre_comun_principal": "Acocil regio",
+        "NombreCompleto": "Procambarus regiomontanus",
+        "nombres_comunes_adicionales": "Acocil regio,Acocil,Cangrejo de agua dulce,Rak n\u00ed\u017einn\u00fd",
+        "foto_principal": "https://static.inaturalist.org/photos/664629/medium.JPG"
+    },
+    "Procyon insularis": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Procyon insularis",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Pseudoeurycea bellii": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Pseudoeurycea bellii",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": "http://bdi.conabio.gob.mx/fotoweb/cache/5007/Animales/Vertebrados/Anfibios/LCM0085%20Pseudoeurycea%20bellii.t538e7988.m600.wConabioCornerCopy.jpg.xHwK-pHogKT_FDvDYLQKVZuKupCg-008OsFSj4hUxEY0.jpg"
+    },
+    "Pseudoeurycea cephalica": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Pseudoeurycea cephalica",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": "http://bdi.conabio.gob.mx/fotoweb/cache/5007/Animales/Vertebrados/Anfibios/JLAL0068%20Pseudoeurycea%20cephalica.t517e724c.m600.wConabioCornerCopy.jpg.xWbzJ33TUokAtWzO6qNu6j8rqGz3YgVX3ot237HJc750.jpg"
+    },
+    "Pseudoeurycea galeanae": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Pseudoeurycea galeanae",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": "http://bdi.conabio.gob.mx/fotoweb/cache/5007/Animales/Vertebrados/Anfibios/EGP0322%20Pseudoeurycea%20galeanae.t5116845c.m600.wConabioCornerCopy.jpg.xOMBbHsT6hqaT6qZioBt7pRnJhYWXAIIBKT9leBvyMeg.jpg"
+    },
+    "Pseudoeurycea scandens": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Pseudoeurycea scandens",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": "http://bdi.conabio.gob.mx/fotoweb/cache/5007/Animales/Vertebrados/Anfibios/EGP0325%20Pseudoeurycea%20scandens.t51147368.m600.wConabioCornerCopy.jpg.xPTNoFcoNLkGxGe9zTgVGDak5q0McDblkY512ycXymgM.jpg"
+    },
+    "Pseudoxiphophorus jonesii": {
+        "nombre_comun_principal": "Guatopote listado",
+        "NombreCompleto": "Pseudoxiphophorus jonesii",
+        "nombres_comunes_adicionales": "Guatopote listado,Guatopote,Barred Killifish,Heterandrie Jonesova",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/1387616/medium.png"
+    },
+    "Pteronotus mexicanus": {
+        "nombre_comun_principal": "Murci\u00e9lago bigotudo de Parnell",
+        "NombreCompleto": "Pteronotus mexicanus",
+        "nombres_comunes_adicionales": "Murci\u00e9lago bigotudo de Parnell,Murci\u00e9lago,Parnell\u2019s mustached bat,Bat,Sopich\u00ed",
+        "foto_principal": null
+    },
+    "Pteronotus parnellii mexicanus": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Pteronotus parnellii subsp. mexicana",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Rana pustulosa": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Rana pustulosa",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Rana sierramadrensis": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Rana sierramadrensis",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Rana spectabilis": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Rana spectabilis",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": "http://bdi.conabio.gob.mx/fotoweb/cache/5007/Animales/Vertebrados/Anfibios/JCHM0081%20Rana%20spectabilis.t4d374846.m600.wConabioCornerCopy.jpg.xYPraaPkLayL2QRCmz6VVTfIvtIbIzfWABaiSdJcGVls.jpg"
+    },
+    "Reithrodontomys fulvescens mustelinus": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Reithrodontomys fulvescens subsp. mustelinus",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Rena dulcis": {
+        "nombre_comun_principal": "Culebrilla ciega texana",
+        "NombreCompleto": "Rena dulcis",
+        "nombres_comunes_adicionales": "Culebrilla ciega texana,Culebrilla ciega de Nuevo M\u00e9xico,Culebrilla ciega del noreste,Serpiente lombriz texana,Texas Blind Snake,Texas Threadsnake,New Mexico Blind Snake,Plains Threadsnake,South Texas Threadsnake,New Mexico threadsnake,Texas-Schlankblindschlange,New Mexico-Schlankblindschlange,Cobra-cega-texana,Slepan texask\u00fd",
+        "foto_principal": "https://static.inaturalist.org/photos/28721555/medium.jpg"
+    },
+    "Rena myopica": {
+        "nombre_comun_principal": "",
+        "NombreCompleto": "Rena myopica",
+        "nombres_comunes_adicionales": "Culebrilla ciega del noreste",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/1577040/medium.jpg"
+    },
+    "Rhadinaea crassa": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Rhadinaea crassa",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Rhadinaea gaigeae": {
+        "nombre_comun_principal": "Culebra caf\u00e9",
+        "NombreCompleto": "Rhadinaea gaigeae",
+        "nombres_comunes_adicionales": "Culebra caf\u00e9,Culebra caf\u00e9 de Gaige,Gaige's Pine Forest Snake",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/23592474/medium.jpg"
+    },
+    "Rhadinaea montana": {
+        "nombre_comun_principal": "Culebra hojarasquera de Nuevo L\u00e9on",
+        "NombreCompleto": "Rhadinaea montana",
+        "nombres_comunes_adicionales": "Culebra hojarasquera de Nuevo L\u00e9on,Culebra caf\u00e9 de Nuevo Le\u00f3n,Hojarasquera neoleonense,Nuevo Leon Graceful Brown Snake",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/1578839/medium.jpg"
+    },
+    "Rheohyla miotympanum": {
+        "nombre_comun_principal": "Calates",
+        "NombreCompleto": "Rheohyla miotympanum",
+        "nombres_comunes_adicionales": "Calates,Rana-de \u00e1rbol mixe,Rana de \u00e1rbol orejas chicas,Calate arbor\u00edcola,Calate,Small-eared Tree Frog,Small-eared treefrog,Rosni\u010dka \u017elutohub\u00e1,\u0416\u0435\u043b\u0442\u043e\u0433\u0443\u0431\u0430\u044f \u043a\u0432\u0430\u043a\u0448\u0430",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/1956958/medium.JPG"
+    },
+    "Rhodothraupis celaeno": {
+        "nombre_comun_principal": "",
+        "NombreCompleto": "Rhodothraupis celaeno",
+        "nombres_comunes_adicionales": "Picogordo cuello rojo,Crimson-collared Grosbeak,Cardinal \u00e0 collier,Mexicaanse Dikbek,Roodkraagkardinaal,Punaliivikardinaali,Dlaskovec krvav\u00fd,Halsbandkardinal,Karmen boyunlu kocaba\u015f,Kragetykknebb,Piros\u00f6rv\u00f6s magt\u00f6r\u0151,Bicudo-de-colar,\u041e\u0448\u0435\u0439\u043d\u0438\u043a\u043e\u0432\u044b\u0439 \u043a\u0430\u0440\u0434\u0438\u043d\u0430\u043b,\u30af\u30ed\u30a2\u30ab\u30a4\u30ab\u30eb,CCGR",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/132500609/medium.jpg"
+    },
+    "Rhogeessa parvula": {
+        "nombre_comun_principal": "Murci\u00e9lago amarillo menor",
+        "NombreCompleto": "Rhogeessa parvula",
+        "nombres_comunes_adicionales": "Murci\u00e9lago amarillo menor,Murci\u00e9lago,Murci\u00e9lago amarillo peque\u00f1o,Little yellow bat,Meksikonokralepakko,\u30e1\u30ad\u30b7\u30b3\u30d2\u30e1\u30a4\u30a8\u30ed\u30fc\u30b3\u30a6\u30e2\u30ea",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/64278277/medium.jpeg"
+    },
+    "Rhynchopsitta pachyrhyncha": {
+        "nombre_comun_principal": "Cotorra serrana occidental",
+        "NombreCompleto": "Rhynchopsitta pachyrhyncha",
+        "nombres_comunes_adicionales": "Cotorra serrana occidental,Periquito de pico grueso,Thick-billed Parrot,Snow Parrot,Papagaio-de-bico-grosso,Araparkiet,Arara zelen\u00fd,M\u00e4ntyaratti,Conure \u00e0 gros bec,Tykknebbparakitt,Arasittich,Vastagcs\u0151r\u0171 papag\u00e1j,Vastagcs\u0151r\u0171 feny\u0151papag\u00e1j,\u041a\u0440\u0430\u0441\u043d\u043e\u043b\u043e\u0431\u044b\u0439 \u0442\u043e\u043b\u0441\u0442\u043e\u043a\u043b\u044e\u0432\u044b\u0439 \u0430\u0440\u0430,\u0422\u043e\u043b\u0441\u0442\u043e\u043a\u043b\u044e\u0432\u044b\u0439 \u0430\u0440\u0430,\u30cf\u30b7\u30d6\u30c8\u30a4\u30f3\u30b3,TBPA,Chiltepetototl,Chiltepequitototl,Quilitototl,Quiliquitototl",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/158995864/medium.jpg"
+    },
+    "Rhynchopsitta terrisi": {
+        "nombre_comun_principal": "Cotorra serrana oriental",
+        "NombreCompleto": "Rhynchopsitta terrisi",
+        "nombres_comunes_adicionales": "Cotorra serrana oriental,Maroon-fronted Parrot,Grote Araparkiet,Grote Dikbekpapegaai,Isom\u00e4ntyaratti,Arara hn\u011bdo\u010del\u00fd,Conure \u00e0 front brun,Furuparakitt,Papagaio-de-fronte-castanha,Papagaio-de-testa-castanha,Maronenstirnsittich,Barnafej\u0171 ararapapag\u00e1j,Barnahomlok\u00fa feny\u0151papag\u00e1j,\u0422\u0435\u043c\u043d\u043e\u043b\u043e\u0431\u044b\u0439 \u0442\u043e\u043b\u0441\u0442\u043e\u043a\u043b\u044e\u0432\u044b\u0439 \u0430\u0440\u0430,\u30af\u30ea\u30e0\u30cd\u30a4\u30f3\u30b3,MFPA",
+        "foto_principal": "https://static.inaturalist.org/photos/44582702/medium.png"
+    },
+    "Ridgwayia pinicola": {
+        "nombre_comun_principal": "Mirlo Azteca",
+        "NombreCompleto": "Ridgwayia pinicola",
+        "nombres_comunes_adicionales": "Mirlo Azteca,Mirlo pinto,Aztec Thrush,Aztekenlijster,Aztekendrossel,Drozd azt\u00e9ck\u00fd,Grive azt\u00e8que,Aztektrost,Tordo-asteca,Azt\u00e9k f\u00f6ldirig\u00f3,\u041c\u0435\u043a\u0441\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u0437\u0435\u043c\u043b\u044f\u043d\u043e\u0439 \u0434\u0440\u043e\u0437\u0434,\u30ab\u30b5\u30b5\u30ae\u30c4\u30b0\u30df,AZTH",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/192906466/medium.jpg"
+    },
+    "Sceloporus cautus": {
+        "nombre_comun_principal": "Lagartija espinosa t\u00edmida",
+        "NombreCompleto": "Sceloporus cautus",
+        "nombres_comunes_adicionales": "Lagartija espinosa t\u00edmida,Lagartija escamosa t\u00edmida,Lagartija espinosa llanera,Shy Spiny Lizard",
+        "foto_principal": "https://static.inaturalist.org/photos/4494328/medium.jpeg"
+    },
+    "Sceloporus chaneyi": {
+        "nombre_comun_principal": "Lagartija espinosa de Chaney",
+        "NombreCompleto": "Sceloporus chaneyi",
+        "nombres_comunes_adicionales": "Lagartija espinosa de Chaney,Lagartija de Chaney,Chaney\u2019s Bunchgrass Lizard,Chaney's Spiny Lizard",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/5883591/medium.jpeg"
+    },
+    "Sceloporus cyanogenys": {
+        "nombre_comun_principal": "Lagartija espinosa azul",
+        "NombreCompleto": "Sceloporus cyanogenys",
+        "nombres_comunes_adicionales": "Lagartija espinosa azul,Blue Spiny Lizard,West Gulf Rough-scaled Lizard,Legu\u00e1nek modr\u00fd,Blauer Stachelleguan,Bl\u00e5kindet Tornleguan,\u0413\u043e\u043b\u0443\u0431\u0430\u044f \u043a\u043e\u043b\u044e\u0447\u0430\u044f \u0438\u0433\u0443\u0430\u043d\u0430,\u30a2\u30aa\u30cf\u30ea\u30c8\u30ab\u30b2",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/11087202/medium.jpeg"
+    },
+    "Sceloporus jarrovii oberon": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Sceloporus jarrovii subsp. oberon",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Sceloporus minor": {
+        "nombre_comun_principal": "Lagartija espinosa menor",
+        "NombreCompleto": "Sceloporus minor",
+        "nombres_comunes_adicionales": "Lagartija espinosa menor,Minor Lizard,Red Minor Lizard,\u30df\u30ce\u30fc\u30eb\u30cf\u30ea\u30c8\u30ab\u30b2",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/1564072/medium.jpg"
+    },
+    "Sceloporus oberon": {
+        "nombre_comun_principal": "Lagartija espinosa de la Sierra de Arteaga",
+        "NombreCompleto": "Sceloporus oberon",
+        "nombres_comunes_adicionales": "Lagartija espinosa de la Sierra de Arteaga,Noble Spiny Lizard",
+        "foto_principal": "https://static.inaturalist.org/photos/5442666/medium.jpeg"
+    },
+    "Sceloporus parvus": {
+        "nombre_comun_principal": "Lagartija espinosa de panza azul",
+        "NombreCompleto": "Sceloporus parvus",
+        "nombres_comunes_adicionales": "Lagartija espinosa de panza azul,Lagartija escamosa panza azul,Pygmy Spiny Lizard,Bluebelly lizard",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/324516/medium.jpg"
+    },
+    "Sceloporus scalaris": {
+        "nombre_comun_principal": "Lagartija espinosa de pastizal",
+        "NombreCompleto": "Sceloporus scalaris",
+        "nombres_comunes_adicionales": "Lagartija espinosa de pastizal,Lagartija escamosa escalonada,Lagartija da pastizal,Bunch Grass Lizard,Bunchgrass Lizard",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/578722/medium.JPG"
+    },
+    "Sceloporus serrifer cariniceps": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Sceloporus serrifer subsp. cariniceps",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Sceloporus serrifer cyanogenys": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Sceloporus serrifer subsp. cyanogenys",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Sceloporus serrifer plioporus": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Sceloporus serrifer subsp. plioporus",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Sceloporus spinosus": {
+        "nombre_comun_principal": "Lagartija espinosa mexicana",
+        "NombreCompleto": "Sceloporus spinosus",
+        "nombres_comunes_adicionales": "Lagartija espinosa mexicana,Lagartija espinosa,Xincoyote,Lagartija escamosa espinosa,Eastern Spiny Lizard,Spiny lizard,Lagarto-espinhoso,Almindelig \u00d8stmexicansk Tornleguan,\u00d6stlicher Stachelleguan,Xincoyotl",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/196621990/medium.jpeg"
+    },
+    "Sceloporus torquatus": {
+        "nombre_comun_principal": "Lagartija espinosa de collar",
+        "NombreCompleto": "Sceloporus torquatus",
+        "nombres_comunes_adicionales": "Lagartija espinosa de collar,Cuisi,Lagartija escamosa barrada,R\u00e1pido barrado,Crevice Swift,Torquate Lizard,Wiegmann's Torquate Lizard,Crevice swift lizard,Lagarto-espinhoso-de-colar,Krave-tornleguan",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/565510/medium.jpg"
+    },
+    "Sceloporus torquatus torquatus": {
+        "nombre_comun_principal": "",
+        "NombreCompleto": "Sceloporus torquatus subsp. torquatus",
+        "nombres_comunes_adicionales": "Lagartija espinosa de collar",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/252751/medium.JPG"
+    },
+    "Scincella caudaequinae": {
+        "nombre_comun_principal": "Esliz\u00f3n de tierra",
+        "NombreCompleto": "Scincella caudaequinae",
+        "nombres_comunes_adicionales": "Esliz\u00f3n de tierra,Horsehead Ground Skink",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/425446/medium.JPG"
+    },
+    "Scincella silvicola": {
+        "nombre_comun_principal": "Esliz\u00f3n de la Sierra Madre Oriental",
+        "NombreCompleto": "Scincella silvicola",
+        "nombres_comunes_adicionales": "Esliz\u00f3n de la Sierra Madre Oriental,Encinela de Taylor,Correl\u00f3n,Taylor\u2019s ground skink",
+        "foto_principal": "https://static.inaturalist.org/photos/3858328/medium.jpg"
+    },
+    "Scincella silvicola caudaequinae": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Scincella silvicola subsp. caudaequinae",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Sciurus alleni": {
+        "nombre_comun_principal": "Ardilla de Nuevo Le\u00f3n",
+        "NombreCompleto": "Sciurus alleni",
+        "nombres_comunes_adicionales": "Ardilla de Nuevo Le\u00f3n,Ardilla,Ardilla de la Sierra Madre Oriental,Allen's Squirrel,Esquilo-de-Allen,Allens H\u00f6rnchen,Sonoranorava,Veverka Allenova,Wiewi\u00f3rka meksyka\u0144ska,\u00c9cureuil d'Allen,Scoiattolo di Allen,\u03a3\u03ba\u03af\u03bf\u03c5\u03c1\u03bf\u03c2 \u03c4\u03bf\u03c5 Allen,\u0411\u0435\u043b\u043a\u0430 \u0410\u043b\u043b\u0435\u043d\u0430,\u30a2\u30ec\u30f3\u30ea\u30b9",
+        "foto_principal": "https://static.inaturalist.org/photos/575964/medium.jpg"
+    },
+    "Scutigerella acicularis": {
+        "nombre_comun_principal": "S\u00ednfilos",
+        "NombreCompleto": "Scutigerella acicularis",
+        "nombres_comunes_adicionales": "S\u00ednfilos",
+        "foto_principal": null
+    },
+    "Scutigerella aduncus": {
+        "nombre_comun_principal": "S\u00ednfilos",
+        "NombreCompleto": "Scutigerella aduncus",
+        "nombres_comunes_adicionales": "S\u00ednfilos",
+        "foto_principal": null
+    },
+    "Scutigerella mexicana": {
+        "nombre_comun_principal": "S\u00ednfilos",
+        "NombreCompleto": "Scutigerella mexicana",
+        "nombres_comunes_adicionales": "S\u00ednfilos",
+        "foto_principal": null
+    },
+    "Selasphorus heloisa": {
+        "nombre_comun_principal": "Zumbador mexicano",
+        "NombreCompleto": "Selasphorus heloisa",
+        "nombres_comunes_adicionales": "Zumbador mexicano,Bumblebee Hummingbird,Heloise's Hummingbird,Rosenkehlelfe,Kolib\u0159\u00edk \u010dmel\u00e1kov\u00fd,Hommelkolibrie,Meksikonpikkukolibri,Colibri h\u00e9lo\u00efse,Humlekolibri,Poszm\u00e9hkolibri,Rudaczek szarouchy,\u041a\u043e\u043b\u0438\u0431\u0440\u0438-\u044d\u043b\u044c\u0444,\u30b3\u30a2\u30ab\u30d2\u30b2\u30cf\u30c1\u30c9\u30ea,BUHU",
+        "foto_principal": "https://static.inaturalist.org/photos/128455137/medium.jpg"
+    },
+    "Sigmodon leucotis": {
+        "nombre_comun_principal": "Rata algodonera orejas blancas",
+        "NombreCompleto": "Sigmodon leucotis",
+        "nombres_comunes_adicionales": "Rata algodonera orejas blancas,Rata algodonera oreja blanca,Rata ca\u00f1era,Rata matorralera orejas blancas,White-eared cotton rat,Oaxacanpumpulirattu,Bawe\u0142niak bia\u0142ouchy,\u0411\u0435\u043b\u043e\u0443\u0445\u0438\u0439 \u0445\u043b\u043e\u043f\u043a\u043e\u0432\u044b\u0439 \u0445\u043e\u043c\u044f\u043a,\u30b7\u30ed\u30df\u30df\u30b3\u30c8\u30f3\u30e9\u30c3\u30c8",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/47988903/medium.jpeg"
+    },
+    "Sorex saussurei": {
+        "nombre_comun_principal": "Musara\u00f1a de Saussure",
+        "NombreCompleto": "Sorex saussurei",
+        "nombres_comunes_adicionales": "Musara\u00f1a de Saussure,Musara\u00f1a,Musara\u00f1a com\u00fan de monta\u00f1a,Saussure's Shrew,Meksikonp\u00e4\u00e4st\u00e4inen,Rejsek Saussure\u016fv,\u30e1\u30ad\u30b7\u30b3\u30c8\u30ac\u30ea\u30cd\u30ba\u30df",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/3711968/medium.JPG"
+    },
+    "Spelaeomysis quinterensis": {
+        "nombre_comun_principal": "Camaroncito marsupial",
+        "NombreCompleto": "Spelaeomysis quinterensis",
+        "nombres_comunes_adicionales": "Camaroncito marsupial,Camar\u00f3n",
+        "foto_principal": null
+    },
+    "Sphaeriodesmus nortoni": {
+        "nombre_comun_principal": "Milpi\u00e9s",
+        "NombreCompleto": "Sphaeriodesmus nortoni",
+        "nombres_comunes_adicionales": "Milpi\u00e9s",
+        "foto_principal": null
+    },
+    "Sphaeriodesmus sprousei": {
+        "nombre_comun_principal": "Milpi\u00e9s",
+        "NombreCompleto": "Sphaeriodesmus sprousei",
+        "nombres_comunes_adicionales": "Milpi\u00e9s",
+        "foto_principal": null
+    },
+    "Spizella wortheni": {
+        "nombre_comun_principal": "Gorri\u00f3n de Worthen",
+        "NombreCompleto": "Spizella wortheni",
+        "nombres_comunes_adicionales": "Gorri\u00f3n de Worthen,Worthen's Sparrow,Mexicaanse Veldgors,Meksikonketosirkkuli,Strn\u00e1dka Worthenova,Mexikoammer,Bruant de Worthen,Einerspurv,Mexik\u00f3i ver\u00e9bs\u00e1rm\u00e1ny,\u041c\u0435\u043a\u0441\u0438\u043a\u0430\u043d\u0441\u043a\u0430\u044f \u043c\u0430\u043b\u0430\u044f \u043e\u0432\u0441\u044f\u043d\u043a\u0430,\u30e1\u30ad\u30b7\u30b3\u30d2\u30e1\u30c9\u30ea,WOSP",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/211386/medium.jpg"
+    },
+    "Spizella wortheni wortheni": null,
+    "Squatina heteroptera": {
+        "nombre_comun_principal": "",
+        "NombreCompleto": "Squatina heteroptera",
+        "nombres_comunes_adicionales": "Disparate Angelshark",
+        "foto_principal": null
+    },
+    "Squatina mexicana": {
+        "nombre_comun_principal": "",
+        "NombreCompleto": "Squatina mexicana",
+        "nombres_comunes_adicionales": "Mexican Angelshark",
+        "foto_principal": null
+    },
+    "Stenucha dolens": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Stenucha dolens",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/27180873/medium.jpg"
+    },
+    "Storeria hidalgoensis": {
+        "nombre_comun_principal": "Culebra parda hidalguense",
+        "NombreCompleto": "Storeria hidalgoensis",
+        "nombres_comunes_adicionales": "Culebra parda hidalguense,Culebra cabeza parda,Mexican Yellowbelly Brown Snake,Mexican yellow-bellied brown snake",
+        "foto_principal": "https://static.inaturalist.org/photos/4945430/medium.jpeg"
+    },
+    "Storeria occipitomaculata hidalgoensis": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Storeria occipitomaculata subsp. hidalgoensis",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Strongylodesmus conspicuus": {
+        "nombre_comun_principal": "Milpi\u00e9s",
+        "NombreCompleto": "Strongylodesmus conspicuus",
+        "nombres_comunes_adicionales": "Milpi\u00e9s",
+        "foto_principal": "https://static.inaturalist.org/photos/23233148/medium.jpeg"
+    },
+    "Sumidero pecki": {
+        "nombre_comun_principal": "Milpi\u00e9s",
+        "NombreCompleto": "Sumidero pecki",
+        "nombres_comunes_adicionales": "Milpi\u00e9s",
+        "foto_principal": null
+    },
+    "Sylvilagus floridanus connectens": {
+        "nombre_comun_principal": "",
+        "NombreCompleto": "Sylvilagus floridanus subsp. connectens",
+        "nombres_comunes_adicionales": "Alta Mira Cottontail",
+        "foto_principal": null
+    },
+    "Syrrhophus dennisi": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Syrrhophus dennisi",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Tampichthys erimyzonops": {
+        "nombre_comun_principal": "Carpa del Mante",
+        "NombreCompleto": "Tampichthys erimyzonops",
+        "nombres_comunes_adicionales": "Carpa del Mante,Carpa de mante,Chubsucker minnow,Dionda mexick\u00e1",
+        "foto_principal": "https://enciclovida.mx/fotoweb/cache/5037/Animales/Vertebrados/Peces/ESG0030%20Tampichthys%20erimyzonops.t537a543a.m600.wConabioCornerCopy.jpg.xUZ5TxDjkm22mqrIOpwcAy9vCB6gL3A1C85e863RbFwc.jpg"
+    },
+    "Tampichthys ipni": {
+        "nombre_comun_principal": "Carpa veracruzana",
+        "NombreCompleto": "Tampichthys ipni",
+        "nombres_comunes_adicionales": "Carpa veracruzana,Dionda venadonsk\u00e1",
+        "foto_principal": "https://static.inaturalist.org/photos/660296/medium.JPG"
+    },
+    "Terrapene carolina mexicana": {
+        "nombre_comun_principal": "",
+        "NombreCompleto": "Terrapene carolina subsp. mexicana",
+        "nombres_comunes_adicionales": "Mexican Box Turtle,Tartaruga-de-caixa-mexicana,\uba55\uc2dc\ucf54 \ubc15\uc2a4 \ud130\ud2c0",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/170879267/medium.jpeg"
+    },
+    "Terrapene mexicana": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Terrapene mexicana",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Thamnophis exsul": {
+        "nombre_comun_principal": "Culebra de agua n\u00f3mada de monta\u00f1a",
+        "NombreCompleto": "Thamnophis exsul",
+        "nombres_comunes_adicionales": "Culebra de agua n\u00f3mada de monta\u00f1a,Culebra semiacu\u00e1tica de monta\u00f1a,Culebra listonada de monta\u00f1a,Montane Garter Snake,Mountain garder snake,Zwerg-Strumpfbandnatter,Cobra-liga-das-montanhas",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/601492/medium.jpeg"
+    },
+    "Thamnophis mendax": {
+        "nombre_comun_principal": "Culebra de agua listonada tamaulipeca",
+        "NombreCompleto": "Thamnophis mendax",
+        "nombres_comunes_adicionales": "Culebra de agua listonada tamaulipeca,Culebra listonada tamaulipeca,Culebra de agua n\u00f3mada monta\u00f1a tapaulipeca,Tamaulipan Montane Garter Snake,Tamaulipas mountain garder snake,Mexikanische Berg-Strumpfbandnatter,Cobra-liga-de-Tamaulipan",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/9502689/medium.jpg"
+    },
+    "Thamnophis pulchrilatus": {
+        "nombre_comun_principal": "Culebra listonada de tierras altas Mexicana",
+        "NombreCompleto": "Thamnophis pulchrilatus",
+        "nombres_comunes_adicionales": "Culebra listonada de tierras altas Mexicana,Culebra semiacu\u00e1tica de garganta amarilla,Yellow-throated Garter Snake,Yellow-throated Gartersnake,Mexican Highlands Garter Snake,Mexican Highlands Gartersnake,Mexican highland garder snake,Cobra-liga-de-garganta-amarela,Gelbhals-Strumpfbandnatter",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/12961289/medium.jpg"
+    },
+    "Thamnophis sumichrasti": {
+        "nombre_comun_principal": "Culebra de agua n\u00f3mada",
+        "NombreCompleto": "Thamnophis sumichrasti",
+        "nombres_comunes_adicionales": "Culebra de agua n\u00f3mada,Culebra listonada,Culebra listonada de Sumichrast,Culebra de agua n\u00f3mada de sumichrast,Sumichrast's Garter Snake,Sumichrast garder snake,Sattelflecken-Strumpfbandnatter,Cobra-liga-de-Sumichrast",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/49327027/medium.jpg"
+    },
+    "Tiphallus alberti": {
+        "nombre_comun_principal": "Milpi\u00e9s",
+        "NombreCompleto": "Tiphallus alberti",
+        "nombres_comunes_adicionales": "Milpi\u00e9s",
+        "foto_principal": null
+    },
+    "Trachemys scripta hartwegi": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Trachemys scripta subsp. hartwegi",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Trachemys scripta ornata": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Trachemys scripta subsp. ornata",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": null
+    },
+    "Trigonopeltastes sallei sinaloensis": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Trigonopeltastes sallei subsp. sinaloensis",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/9306090/medium.jpeg"
+    },
+    "Trigonopeltastes variabilis": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Trigonopeltastes variabilis",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/88417606/medium.jpeg"
+    },
+    "Trimorphodon tau": {
+        "nombre_comun_principal": "Falsa nauyaca mexicana",
+        "NombreCompleto": "Trimorphodon tau",
+        "nombres_comunes_adicionales": "Falsa nauyaca mexicana,Pichicuata,Culebra,Mexican Lyre Snake,Mexican lyresnake",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/11176575/medium.jpg"
+    },
+    "Troglomexicanus perezfarfantae": {
+        "nombre_comun_principal": "",
+        "NombreCompleto": "Troglomexicanus perezfarfantae",
+        "nombres_comunes_adicionales": "Camar\u00f3n de coral",
+        "foto_principal": null
+    },
+    "Turdus rufopalliatus": {
+        "nombre_comun_principal": "Mirlo dorso canela",
+        "NombreCompleto": "Turdus rufopalliatus",
+        "nombres_comunes_adicionales": "Mirlo dorso canela,Zorzal Dorsirrufo,Mirlo dorso rufo,Mirlo nayarita,Zorsal dorsirrufo,Rufous-backed Robin,Rufous-backed Thrush,Merle \u00e0 dos roux,Roestruglijster,Rotmanteldrossel,Ruosteselk\u00e4rastas,Drozd rezavoh\u0159bet\u00fd,Mexikansk trast,Mexicansk Vandredrossel,Drozd rudogrzbiety,Tordo dorsorossiccio,Rusttrost,Tordo-de-dorso-ruivo,V\u00f6r\u00f6skab\u00e1tos rig\u00f3,Rooster\u00e4stas,\u0420\u044b\u0436\u0435\u0441\u043f\u0438\u043d\u043d\u044b\u0439 \u0434\u0440\u043e\u0437\u0434,\u30e1\u30ad\u30b7\u30b3\u30b3\u30de\u30c4\u30b0\u30df,RBRO",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/253871853/medium.jpg"
+    },
+    "Tylogoneus minus": {
+        "nombre_comun_principal": "Milpi\u00e9s",
+        "NombreCompleto": "Tylogoneus minus",
+        "nombres_comunes_adicionales": "Milpi\u00e9s",
+        "foto_principal": null
+    },
+    "Unculabes causeyae": {
+        "nombre_comun_principal": "Milpi\u00e9s",
+        "NombreCompleto": "Unculabes causeyae",
+        "nombres_comunes_adicionales": "Milpi\u00e9s",
+        "foto_principal": null
+    },
+    "Urosaurus bicarinatus": {
+        "nombre_comun_principal": "Lagartija de \u00e1rbol del Pac\u00edfico",
+        "NombreCompleto": "Urosaurus bicarinatus",
+        "nombres_comunes_adicionales": "Lagartija de \u00e1rbol del Pac\u00edfico,Cachorita,Chintete,Lagartija arbolera tropical,Salamanquesa,Ro\u00f1ito,Lagartija de \u00e1rbol,Tropical tree lizard,\u0414\u0432\u0443\u0445\u043a\u0438\u043b\u0435\u0432\u043e\u0439 \u0443\u0440\u043e\u0437\u0430\u0443\u0440\u0443\u0441",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/6511737/medium.jpg"
+    },
+    "Vaejovis rossmani": {
+        "nombre_comun_principal": "\u0160t\u00edr Rossman\u016fv",
+        "NombreCompleto": "Vaejovis rossmani",
+        "nombres_comunes_adicionales": "\u0160t\u00edr Rossman\u016fv",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/100223550/medium.jpg"
+    },
+    "Vaejovis sprousei": {
+        "nombre_comun_principal": null,
+        "NombreCompleto": "Vaejovis sprousei",
+        "nombres_comunes_adicionales": null,
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/5470799/medium.jpeg"
+    },
+    "Vireo hypochryseus": {
+        "nombre_comun_principal": "Vireo Amarillo",
+        "NombreCompleto": "Vireo hypochryseus",
+        "nombres_comunes_adicionales": "Vireo Amarillo,Vireo dorado,Golden Vireo,Vir\u00e9o dor\u00e9,Gele Vireo,Goudbuikvireo,Kultavireo,Zelen\u00e1\u010dek zlat\u00fd,Goldbauchvireo,Gulvireo,Juruviara-dourada,V\u00edreo-dourado,\u0417\u043e\u043b\u043e\u0442\u043e\u0431\u0440\u044e\u0445\u0438\u0439 \u0432\u0438\u0440\u0435\u043e\u043d,\u30aa\u30a6\u30b4\u30f3\u30e2\u30ba\u30e2\u30c9\u30ad,GOVI",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/6142970/medium.jpg"
+    },
+    "Xenosaurus newmanorum": {
+        "nombre_comun_principal": "Lagartija escamas de perilla de la Sierra Madre Oriental",
+        "NombreCompleto": "Xenosaurus newmanorum",
+        "nombres_comunes_adicionales": "Lagartija escamas de perilla de la Sierra Madre Oriental,Xenosaurio de Newman,Newman's Knob-scaled Lizard",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/27915091/medium.jpg"
+    },
+    "Xenosaurus platyceps": {
+        "nombre_comun_principal": "Lagartija escamas de perilla de cabeza plana",
+        "NombreCompleto": "Xenosaurus platyceps",
+        "nombres_comunes_adicionales": "Lagartija escamas de perilla de cabeza plana,Xenosaurio cabeza plana,Flathead Knob-scaled Lizard,Krokod\u00fdlovec mexick\u00fd,\u041f\u043b\u043e\u0441\u043a\u043e\u0433\u043e\u043b\u043e\u0432\u044b\u0439 \u043a\u0441\u0435\u043d\u043e\u0437\u0430\u0432\u0440,\u30d2\u30e9\u30ba\u30b3\u30d6\u30c8\u30ab\u30b2",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/3253295/medium.JPG"
+    },
+    "Xiphophorus montezumae": {
+        "nombre_comun_principal": "Espada de Moctezuma",
+        "NombreCompleto": "Xiphophorus montezumae",
+        "nombres_comunes_adicionales": "Espada de Moctezuma,Montezuma Swordtail,Mexican swordtail,Moctezuma swordtail,Me\u010dovka Montezumova",
+        "foto_principal": "https://static.inaturalist.org/photos/1982496/medium.jpg"
+    },
+    "Xiphophorus nezahualcoyotl": {
+        "nombre_comun_principal": "Espada monta\u00f1es",
+        "NombreCompleto": "Xiphophorus nezahualcoyotl",
+        "nombres_comunes_adicionales": "Espada monta\u00f1es,Mountain Swordtail,Me\u010dovka Nezahualcoyotlova",
+        "foto_principal": "https://static.inaturalist.org/photos/1982552/medium.jpg"
+    },
+    "Xiphophorus pygmaeus": {
+        "nombre_comun_principal": "Espada pigmea delgada",
+        "NombreCompleto": "Xiphophorus pygmaeus",
+        "nombres_comunes_adicionales": "Espada pigmea delgada,Espada pigmeo delgado,Pygmy Platyfish,Pygmy swordtail,Me\u010dovka trpasli\u010d\u00ed",
+        "foto_principal": "https://static.inaturalist.org/photos/665379/medium.JPG"
+    },
+    "Xiphophorus variatus": {
+        "nombre_comun_principal": "Espada de Valles",
+        "NombreCompleto": "Xiphophorus variatus",
+        "nombres_comunes_adicionales": "Espada de Valles,Variable Platyfish,Variegated Platy,Plata pestr\u00e1,Papageienplaty",
+        "foto_principal": "https://inaturalist-open-data.s3.amazonaws.com/photos/1042387/medium.jpg"
+    },
+    "Xiphophorus xiphidium": {
+        "nombre_comun_principal": "Espada del Soto La Marina",
+        "NombreCompleto": "Xiphophorus xiphidium",
+        "nombres_comunes_adicionales": "Espada del Soto La Marina,Espada de Soto La Marina,Swordtail Platyfish,Plata me\u010d\u00edkat\u00e1",
+        "foto_principal": "https://static.inaturalist.org/photos/2875563/medium.jpg"
+    }
+}
